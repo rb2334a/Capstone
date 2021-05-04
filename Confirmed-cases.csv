@@ -1,0 +1,3343 @@
+Province_State,Combined_Key,Active Cases,Deaths
+Alabama,"Autauga, Alabama, US",6909,107
+Alabama,"Baldwin, Alabama, US",20983,306
+Alabama,"Barbour, Alabama, US",2302,56
+Alabama,"Bibb, Alabama, US",2596,63
+Alabama,"Blount, Alabama, US",6619,135
+Alabama,"Bullock, Alabama, US",1229,41
+Alabama,"Butler, Alabama, US",2154,69
+Alabama,"Calhoun, Alabama, US",14450,312
+Alabama,"Chambers, Alabama, US",3545,123
+Alabama,"Cherokee, Alabama, US",1837,45
+Alabama,"Chilton, Alabama, US",4240,111
+Alabama,"Choctaw, Alabama, US",603,24
+Alabama,"Clarke, Alabama, US",3502,60
+Alabama,"Clay, Alabama, US",1533,56
+Alabama,"Cleburne, Alabama, US",1483,41
+Alabama,"Coffee, Alabama, US",5489,115
+Alabama,"Colbert, Alabama, US",6279,134
+Alabama,"Conecuh, Alabama, US",1100,28
+Alabama,"Coosa, Alabama, US",1068,28
+Alabama,"Covington, Alabama, US",4105,117
+Alabama,"Crenshaw, Alabama, US",1515,57
+Alabama,"Cullman, Alabama, US",9615,193
+Alabama,"Dale, Alabama, US",4810,111
+Alabama,"Dallas, Alabama, US",3536,150
+Alabama,"DeKalb, Alabama, US",8811,185
+Alabama,"Elmore, Alabama, US",10013,205
+Alabama,"Escambia, Alabama, US",3925,75
+Alabama,"Etowah, Alabama, US",13792,352
+Alabama,"Fayette, Alabama, US",2119,62
+Alabama,"Franklin, Alabama, US",4238,82
+Alabama,"Geneva, Alabama, US",2469,75
+Alabama,"Greene, Alabama, US",922,34
+Alabama,"Hale, Alabama, US",2217,76
+Alabama,"Henry, Alabama, US",1884,44
+Alabama,"Houston, Alabama, US",10503,280
+Alabama,"Jackson, Alabama, US",6790,110
+Alabama,"Jefferson, Alabama, US",76199,1516
+Alabama,"Lamar, Alabama, US",1411,34
+Alabama,"Lauderdale, Alabama, US",9393,238
+Alabama,"Lawrence, Alabama, US",2996,98
+Alabama,"Lee, Alabama, US",15796,168
+Alabama,"Limestone, Alabama, US",9933,150
+Alabama,"Lowndes, Alabama, US",1383,53
+Alabama,"Macon, Alabama, US",1586,49
+Alabama,"Madison, Alabama, US",34555,501
+Alabama,"Marengo, Alabama, US",2485,64
+Alabama,"Marion, Alabama, US",3092,100
+Alabama,"Marshall, Alabama, US",12164,222
+Alabama,"Mobile, Alabama, US",40832,804
+Alabama,"Monroe, Alabama, US",1761,40
+Alabama,"Montgomery, Alabama, US",24252,585
+Alabama,"Morgan, Alabama, US",14246,279
+Alabama,"Out of AL, Alabama, US",0,0
+Alabama,"Perry, Alabama, US",1075,26
+Alabama,"Pickens, Alabama, US",2335,59
+Alabama,"Pike, Alabama, US",3091,77
+Alabama,"Randolph, Alabama, US",1791,41
+Alabama,"Russell, Alabama, US",4379,38
+Alabama,"Shelby, Alabama, US",23350,246
+Alabama,"St. Clair, Alabama, US",9580,237
+Alabama,"Sumter, Alabama, US",1041,32
+Alabama,"Talladega, Alabama, US",8181,175
+Alabama,"Tallapoosa, Alabama, US",4002,150
+Alabama,"Tuscaloosa, Alabama, US",25633,451
+Alabama,"Unassigned, Alabama, US",0,0
+Alabama,"Walker, Alabama, US",7205,279
+Alabama,"Washington, Alabama, US",1667,39
+Alabama,"Wilcox, Alabama, US",1264,28
+Alabama,"Winston, Alabama, US",2734,72
+Alaska,"Aleutians East, Alaska, US",366,3
+Alaska,"Aleutians West, Alaska, US",692,1
+Alaska,"Anchorage, Alaska, US",30183,176
+Alaska,"Bethel, Alaska, US",3876,21
+Alaska,"Bristol Bay, Alaska, US",0,0
+Alaska,"Bristol Bay plus Lake and Peninsula, Alaska, US",195,0
+Alaska,"Chugach, Alaska, US",402,3
+Alaska,"Copper River, Alaska, US",242,0
+Alaska,"Denali, Alaska, US",102,0
+Alaska,"Dillingham, Alaska, US",229,2
+Alaska,"Fairbanks North Star,Alaska,US",7643,37
+Alaska,"Haines, Alaska, US",31,0
+Alaska,"Hoonah-Angoon, Alaska, US",0,0
+Alaska,"Juneau, Alaska, US",1383,5
+Alaska,"Kenai Peninsula,Alaska,US",4465,22
+Alaska,"Ketchikan Gateway, Alaska, US",439,2
+Alaska,"Kodiak Island, Alaska, US",1106,5
+Alaska,"Kusilvak, Alaska, US",1277,4
+Alaska,"Matanuska-Susitna,Alaska,US",11386,48
+Alaska,"Nome, Alaska, US",352,0
+Alaska,"North Slope, Alaska, US",1073,4
+Alaska,"Northwest Arctic, Alaska, US",615,2
+Alaska,"Out of AK, Alaska, US",0,0
+Alaska,"Petersburg, Alaska, US",167,1
+Alaska,"Prince of Wales-Hyder, Alaska, US",103,1
+Alaska,"Sitka, Alaska, US",350,1
+Alaska,"Skagway, Alaska, US",21,0
+Alaska,"Southeast Fairbanks, Alaska, US",673,4
+Alaska,"Unassigned, Alaska, US",288,0
+Alaska,"Valdez-Cordova, Alaska, US",0,0
+Alaska,"Wrangell, Alaska, US",54,0
+Alaska,"Yakutat, Alaska, US",75,2
+Alaska,"Yukon-Koyukuk, Alaska, US",360,4
+American Samoa,"American Samoa, US",0,0
+Arizona,"Apache, Arizona, US",11335,428
+Arizona,"Cochise, Arizona, US",11922,284
+Arizona,"Coconino, Arizona, US",17745,329
+Arizona,"Gila, Arizona, US",6899,227
+Arizona,"Graham, Arizona, US",5550,78
+Arizona,"Greenlee, Arizona, US",571,10
+Arizona,"La Paz, Arizona, US",2460,80
+Arizona,"Maricopa, Arizona, US",538124,9882
+Arizona,"Mohave, Arizona, US",22693,715
+Arizona,"Navajo, Arizona, US",16207,532
+Arizona,"Out of AZ, Arizona, US",0,0
+Arizona,"Pima, Arizona, US",115289,2395
+Arizona,"Pinal, Arizona, US",51397,872
+Arizona,"Santa Cruz, Arizona, US",7919,176
+Arizona,"Unassigned, Arizona, US",0,0
+Arizona,"Yavapai, Arizona, US",18725,503
+Arizona,"Yuma, Arizona, US",37091,833
+Arkansas,"Arkansas, Arkansas, US",2095,36
+Arkansas,"Ashley, Arkansas, US",1998,34
+Arkansas,"Baxter, Arkansas, US",3157,103
+Arkansas,"Benton, Arkansas, US",28817,414
+Arkansas,"Boone, Arkansas, US",3807,80
+Arkansas,"Bradley, Arkansas, US",1384,32
+Arkansas,"Calhoun, Arkansas, US",411,3
+Arkansas,"Carroll, Arkansas, US",2800,45
+Arkansas,"Chicot, Arkansas, US",1612,41
+Arkansas,"Clark, Arkansas, US",2102,41
+Arkansas,"Clay, Arkansas, US",1755,50
+Arkansas,"Cleburne, Arkansas, US",1975,74
+Arkansas,"Cleveland, Arkansas, US",950,25
+Arkansas,"Columbia, Arkansas, US",2340,56
+Arkansas,"Conway, Arkansas, US",2217,32
+Arkansas,"Craighead, Arkansas, US",13369,179
+Arkansas,"Crawford, Arkansas, US",7061,119
+Arkansas,"Crittenden, Arkansas, US",6035,96
+Arkansas,"Cross, Arkansas, US",1943,50
+Arkansas,"Dallas, Arkansas, US",758,15
+Arkansas,"Desha, Arkansas, US",1361,24
+Arkansas,"Drew, Arkansas, US",1998,43
+Arkansas,"Faulkner, Arkansas, US",12459,161
+Arkansas,"Franklin, Arkansas, US",1689,39
+Arkansas,"Fulton, Arkansas, US",1121,47
+Arkansas,"Garland, Arkansas, US",10126,259
+Arkansas,"Grant, Arkansas, US",1645,32
+Arkansas,"Greene, Arkansas, US",6104,75
+Arkansas,"Hempstead, Arkansas, US",1999,20
+Arkansas,"Hot Spring, Arkansas, US",5092,72
+Arkansas,"Howard, Arkansas, US",1653,25
+Arkansas,"Independence, Arkansas, US",3755,123
+Arkansas,"Izard, Arkansas, US",1677,41
+Arkansas,"Jackson, Arkansas, US",3218,38
+Arkansas,"Jefferson, Arkansas, US",8859,166
+Arkansas,"Johnson, Arkansas, US",2908,38
+Arkansas,"Lafayette, Arkansas, US",546,9
+Arkansas,"Lawrence, Arkansas, US",2110,43
+Arkansas,"Lee, Arkansas, US",1671,34
+Arkansas,"Lincoln, Arkansas, US",3200,48
+Arkansas,"Little River, Arkansas, US",1235,42
+Arkansas,"Logan, Arkansas, US",2229,22
+Arkansas,"Lonoke, Arkansas, US",7277,119
+Arkansas,"Madison, Arkansas, US",1452,23
+Arkansas,"Marion, Arkansas, US",1053,30
+Arkansas,"Miller, Arkansas, US",4291,38
+Arkansas,"Mississippi, Arkansas, US",5833,107
+Arkansas,"Monroe, Arkansas, US",868,17
+Arkansas,"Montgomery, Arkansas, US",754,33
+Arkansas,"Nevada, Arkansas, US",821,24
+Arkansas,"Newton, Arkansas, US",720,26
+Arkansas,"Ouachita, Arkansas, US",2305,61
+Arkansas,"Out of AR, Arkansas, US",0,0
+Arkansas,"Perry, Arkansas, US",836,10
+Arkansas,"Phillips, Arkansas, US",1818,38
+Arkansas,"Pike, Arkansas, US",1012,22
+Arkansas,"Poinsett, Arkansas, US",3160,77
+Arkansas,"Polk, Arkansas, US",1985,72
+Arkansas,"Pope, Arkansas, US",8027,107
+Arkansas,"Prairie, Arkansas, US",893,21
+Arkansas,"Pulaski, Arkansas, US",39047,654
+Arkansas,"Randolph, Arkansas, US",2102,47
+Arkansas,"Saline, Arkansas, US",11873,166
+Arkansas,"Scott, Arkansas, US",933,14
+Arkansas,"Searcy, Arkansas, US",680,18
+Arkansas,"Sebastian, Arkansas, US",15186,275
+Arkansas,"Sevier, Arkansas, US",2789,24
+Arkansas,"Sharp, Arkansas, US",1592,45
+Arkansas,"St. Francis, Arkansas, US",3587,42
+Arkansas,"Stone, Arkansas, US",987,30
+Arkansas,"Unassigned, Arkansas, US",2836,0
+Arkansas,"Union, Arkansas, US",4011,114
+Arkansas,"Van Buren, Arkansas, US",1300,23
+Arkansas,"Washington, Arkansas, US",30811,348
+Arkansas,"White, Arkansas, US",7954,118
+Arkansas,"Woodruff, Arkansas, US",645,13
+Arkansas,"Yell, Arkansas, US",3426,65
+California,"Alameda, California, US",86704,1519
+California,"Alpine, California, US",88,0
+California,"Amador, California, US",3650,47
+California,"Butte, California, US",11845,198
+California,"Calaveras, California, US",2096,52
+California,"Colusa, California, US",2221,16
+California,"Contra Costa, California, US",68115,800
+California,"Del Norte, California, US",1329,7
+California,"El Dorado, California, US",9964,110
+California,"Fresno, California, US",101326,1678
+California,"Glenn, California, US",2369,25
+California,"Humboldt, California, US",3852,38
+California,"Imperial, California, US",28262,721
+California,"Inyo, California, US",1422,38
+California,"Kern, California, US",108628,1354
+California,"Kings, California, US",22905,246
+California,"Lake, California, US",3441,43
+California,"Lassen, California, US",5692,24
+California,"Los Angeles, California, US",1233772,23943
+California,"Madera, California, US",16408,240
+California,"Marin, California, US",13981,228
+California,"Mariposa, California, US",441,7
+California,"Mendocino, California, US",4029,48
+California,"Merced, California, US",31594,454
+California,"Modoc, California, US",493,4
+California,"Mono, California, US",1277,4
+California,"Monterey, California, US",43461,382
+California,"Napa, California, US",9800,81
+California,"Nevada, California, US",4625,75
+California,"Orange, California, US",270284,4969
+California,"Out of CA, California, US",0,0
+California,"Placer, California, US",22240,289
+California,"Plumas, California, US",703,6
+California,"Riverside, California, US",298450,4574
+California,"Sacramento, California, US",103043,1665
+California,"San Benito, California, US",6030,63
+California,"San Bernardino, California, US",296089,4655
+California,"San Diego, California, US",276520,3712
+California,"San Francisco, California, US",36496,541
+California,"San Joaquin, California, US",72478,1365
+California,"San Luis Obispo, California, US",21193,260
+California,"San Mateo, California, US",41617,567
+California,"Santa Barbara, California, US",34223,453
+California,"Santa Clara, California, US",118424,2069
+California,"Santa Cruz, California, US",15999,207
+California,"Shasta, California, US",11901,220
+California,"Sierra, California, US",110,0
+California,"Siskiyou, California, US",2071,21
+California,"Solano, California, US",32477,249
+California,"Sonoma, California, US",29886,318
+California,"Stanislaus, California, US",61430,1046
+California,"Sutter, California, US",9366,111
+California,"Tehama, California, US",5507,58
+California,"Trinity, California, US",398,5
+California,"Tulare, California, US",49477,837
+California,"Tuolumne, California, US",4105,64
+California,"Unassigned, California, US",44,0
+California,"Ventura, California, US",80617,1009
+California,"Yolo, California, US",13784,208
+California,"Yuba, California, US",6185,44
+Colorado,"Adams, Colorado, US",56473,670
+Colorado,"Alamosa, Colorado, US",1463,30
+Colorado,"Arapahoe, Colorado, US",57947,714
+Colorado,"Archuleta, Colorado, US",908,1
+Colorado,"Baca, Colorado, US",289,4
+Colorado,"Bent, Colorado, US",1524,21
+Colorado,"Boulder, Colorado, US",22954,230
+Colorado,"Broomfield, Colorado, US",4690,75
+Colorado,"Chaffee, Colorado, US",1633,25
+Colorado,"Cheyenne, Colorado, US",127,6
+Colorado,"Clear Creek, Colorado, US",438,3
+Colorado,"Conejos, Colorado, US",518,10
+Colorado,"Costilla, Colorado, US",208,2
+Colorado,"Crowley, Colorado, US",2181,15
+Colorado,"Custer, Colorado, US",190,1
+Colorado,"Delta, Colorado, US",2671,61
+Colorado,"Denver, Colorado, US",70708,806
+Colorado,"Dolores, Colorado, US",80,0
+Colorado,"Douglas, Colorado, US",27960,234
+Colorado,"Eagle, Colorado, US",6231,22
+Colorado,"El Paso, Colorado, US",64366,791
+Colorado,"Elbert, Colorado, US",1674,13
+Colorado,"Fremont, Colorado, US",6098,55
+Colorado,"Garfield, Colorado, US",5775,38
+Colorado,"Gilpin, Colorado, US",231,3
+Colorado,"Grand, Colorado, US",1460,7
+Colorado,"Gunnison, Colorado, US",1324,6
+Colorado,"Hinsdale, Colorado, US",17,0
+Colorado,"Huerfano, Colorado, US",392,17
+Colorado,"Jackson, Colorado, US",57,0
+Colorado,"Jefferson, Colorado, US",45356,751
+Colorado,"Kiowa, Colorado, US",93,3
+Colorado,"Kit Carson, Colorado, US",606,11
+Colorado,"La Plata, Colorado, US",3846,39
+Colorado,"Lake, Colorado, US",776,0
+Colorado,"Larimer, Colorado, US",25579,233
+Colorado,"Las Animas, Colorado, US",1112,11
+Colorado,"Lincoln, Colorado, US",1022,4
+Colorado,"Logan, Colorado, US",3941,67
+Colorado,"Mesa, Colorado, US",14455,212
+Colorado,"Mineral, Colorado, US",88,1
+Colorado,"Moffat, Colorado, US",752,22
+Colorado,"Montezuma, Colorado, US",1889,24
+Colorado,"Montrose, Colorado, US",3434,57
+Colorado,"Morgan, Colorado, US",2631,93
+Colorado,"Otero, Colorado, US",1968,65
+Colorado,"Ouray, Colorado, US",283,3
+Colorado,"Out of CO, Colorado, US",0,0
+Colorado,"Park, Colorado, US",739,5
+Colorado,"Phillips, Colorado, US",375,13
+Colorado,"Pitkin, Colorado, US",2579,4
+Colorado,"Prowers, Colorado, US",1206,21
+Colorado,"Pueblo, Colorado, US",17982,377
+Colorado,"Rio Blanco, Colorado, US",564,4
+Colorado,"Rio Grande, Colorado, US",789,14
+Colorado,"Routt, Colorado, US",2186,20
+Colorado,"Saguache, Colorado, US",368,4
+Colorado,"San Juan, Colorado, US",52,2
+Colorado,"San Miguel, Colorado, US",872,0
+Colorado,"Sedgwick, Colorado, US",213,2
+Colorado,"Summit, Colorado, US",3679,7
+Colorado,"Teller, Colorado, US",1658,14
+Colorado,"Unassigned, Colorado, US",66,0
+Colorado,"Washington, Colorado, US",449,12
+Colorado,"Weld, Colorado, US",30688,334
+Colorado,"Yuma, Colorado, US",882,17
+Connecticut,"Fairfield, Connecticut, US",98131,2167
+Connecticut,"Hartford, Connecticut, US",81660,2398
+Connecticut,"Litchfield, Connecticut, US",14323,294
+Connecticut,"Middlesex, Connecticut, US",12547,364
+Connecticut,"New Haven, Connecticut, US",89526,2073
+Connecticut,"New London, Connecticut, US",21907,442
+Connecticut,"Out of CT, Connecticut, US",0,0
+Connecticut,"Tolland, Connecticut, US",9350,183
+Connecticut,"Unassigned, Connecticut, US",1167,0
+Connecticut,"Windham, Connecticut, US",10622,191
+Delaware,"Kent, Delaware, US",17484,334
+Delaware,"New Castle, Delaware, US",61935,809
+Delaware,"Out of DE, Delaware, US",0,0
+Delaware,"Sussex, Delaware, US",25272,483
+Delaware,"Unassigned, Delaware, US",218,0
+Diamond Princess,"Diamond Princess, US",49,0
+District of Columbia,"District of Columbia,District of Columbia,US",47800,1106
+District of Columbia,"Out of DC, District of Columbia, US",0,0
+District of Columbia,"Unassigned, District of Columbia, US",0,0
+Florida,"Alachua, Florida, US",24701,275
+Florida,"Baker, Florida, US",3487,60
+Florida,"Bay, Florida, US",20040,386
+Florida,"Bradford, Florida, US",3004,56
+Florida,"Brevard, Florida, US",41119,862
+Florida,"Broward, Florida, US",237067,2905
+Florida,"Calhoun, Florida, US",1688,43
+Florida,"Charlotte, Florida, US",12775,418
+Florida,"Citrus, Florida, US",11023,445
+Florida,"Clay, Florida, US",18492,340
+Florida,"Collier, Florida, US",35525,528
+Florida,"Columbia, Florida, US",8096,169
+Florida,"DeSoto,Florida,US",4307,93
+Florida,"Dixie, Florida, US",1606,24
+Florida,"Duval, Florida, US",97619,1402
+Florida,"Escambia, Florida, US",35984,680
+Florida,"Flagler, Florida, US",7230,111
+Florida,"Franklin, Florida, US",1315,17
+Florida,"Gadsden, Florida, US",5652,94
+Florida,"Gilchrist, Florida, US",1605,43
+Florida,"Glades, Florida, US",952,19
+Florida,"Gulf, Florida, US",1956,42
+Florida,"Hamilton, Florida, US",1625,25
+Florida,"Hardee, Florida, US",3122,43
+Florida,"Hendry, Florida, US",4708,82
+Florida,"Hernando, Florida, US",13813,459
+Florida,"Highlands, Florida, US",8470,351
+Florida,"Hillsborough, Florida, US",136014,1713
+Florida,"Holmes, Florida, US",2242,49
+Florida,"Indian River, Florida, US",12445,299
+Florida,"Jackson, Florida, US",6179,156
+Florida,"Jefferson, Florida, US",1490,27
+Florida,"Lafayette, Florida, US",1616,26
+Florida,"Lake, Florida, US",29429,633
+Florida,"Lee, Florida, US",69837,959
+Florida,"Leon, Florida, US",31699,317
+Florida,"Levy, Florida, US",3412,54
+Florida,"Liberty, Florida, US",1073,16
+Florida,"Madison, Florida, US",2052,45
+Florida,"Manatee, Florida, US",38303,668
+Florida,"Marion, Florida, US",30913,958
+Florida,"Martin, Florida, US",12229,320
+Florida,"Miami-Dade, Florida, US",485300,6186
+Florida,"Monroe, Florida, US",6924,49
+Florida,"Nassau, Florida, US",8332,124
+Florida,"Okaloosa, Florida, US",20462,361
+Florida,"Okeechobee, Florida, US",3985,88
+Florida,"Orange, Florida, US",136967,1252
+Florida,"Osceola, Florida, US",44302,502
+Florida,"Out of FL, Florida, US",0,0
+Florida,"Palm Beach, Florida, US",143709,2774
+Florida,"Pasco, Florida, US",40895,743
+Florida,"Pinellas, Florida, US",79072,1613
+Florida,"Polk, Florida, US",67979,1310
+Florida,"Putnam, Florida, US",6449,148
+Florida,"Santa Rosa, Florida, US",18163,285
+Florida,"Sarasota, Florida, US",32545,812
+Florida,"Seminole, Florida, US",33833,493
+Florida,"St. Johns, Florida, US",22463,209
+Florida,"St. Lucie, Florida, US",26153,626
+Florida,"Sumter, Florida, US",9281,275
+Florida,"Suwannee, Florida, US",5323,138
+Florida,"Taylor, Florida, US",2721,46
+Florida,"Unassigned, Florida, US",3393,0
+Florida,"Union, Florida, US",1818,72
+Florida,"Volusia, Florida, US",42904,796
+Florida,"Wakulla, Florida, US",3419,55
+Florida,"Walton, Florida, US",7748,87
+Florida,"Washington, Florida, US",2724,51
+Georgia,"Appling, Georgia, US",2302,71
+Georgia,"Atkinson, Georgia, US",1019,19
+Georgia,"Bacon, Georgia, US",1638,36
+Georgia,"Baker, Georgia, US",230,9
+Georgia,"Baldwin, Georgia, US",4491,128
+Georgia,"Banks, Georgia, US",1808,35
+Georgia,"Barrow, Georgia, US",9904,136
+Georgia,"Bartow, Georgia, US",14580,223
+Georgia,"Ben Hill, Georgia, US",2081,79
+Georgia,"Berrien, Georgia, US",1825,44
+Georgia,"Bibb, Georgia, US",15787,446
+Georgia,"Bleckley, Georgia, US",1445,51
+Georgia,"Brantley, Georgia, US",1611,37
+Georgia,"Brooks, Georgia, US",1384,47
+Georgia,"Bryan, Georgia, US",3614,39
+Georgia,"Bulloch, Georgia, US",6773,113
+Georgia,"Burke, Georgia, US",2563,61
+Georgia,"Butts, Georgia, US",3112,83
+Georgia,"Calhoun, Georgia, US",580,15
+Georgia,"Camden, Georgia, US",3929,35
+Georgia,"Candler, Georgia, US",937,66
+Georgia,"Carroll, Georgia, US",11288,238
+Georgia,"Catoosa, Georgia, US",6277,70
+Georgia,"Charlton, Georgia, US",1370,33
+Georgia,"Chatham, Georgia, US",23071,453
+Georgia,"Chattahoochee, Georgia, US",3940,15
+Georgia,"Chattooga, Georgia, US",2797,71
+Georgia,"Cherokee, Georgia, US",30763,316
+Georgia,"Clarke, Georgia, US",14975,144
+Georgia,"Clay, Georgia, US",238,3
+Georgia,"Clayton, Georgia, US",26357,469
+Georgia,"Clinch, Georgia, US",970,26
+Georgia,"Cobb, Georgia, US",77809,1046
+Georgia,"Coffee, Georgia, US",5285,172
+Georgia,"Colquitt, Georgia, US",4656,118
+Georgia,"Columbia, Georgia, US",16771,202
+Georgia,"Cook, Georgia, US",1816,43
+Georgia,"Coweta, Georgia, US",14009,217
+Georgia,"Crawford, Georgia, US",662,19
+Georgia,"Crisp, Georgia, US",2076,79
+Georgia,"Dade, Georgia, US",1404,14
+Georgia,"Dawson, Georgia, US",3025,43
+Georgia,"DeKalb, Georgia, US",65431,1000
+Georgia,"Decatur, Georgia, US",2915,70
+Georgia,"Dodge, Georgia, US",2100,102
+Georgia,"Dooly, Georgia, US",1065,45
+Georgia,"Dougherty, Georgia, US",7496,303
+Georgia,"Douglas, Georgia, US",15060,215
+Georgia,"Early, Georgia, US",1168,48
+Georgia,"Echols, Georgia, US",470,9
+Georgia,"Effingham, Georgia, US",4566,68
+Georgia,"Elbert, Georgia, US",2280,72
+Georgia,"Emanuel, Georgia, US",2543,81
+Georgia,"Evans, Georgia, US",956,29
+Georgia,"Fannin, Georgia, US",2373,71
+Georgia,"Fayette, Georgia, US",8880,168
+Georgia,"Floyd, Georgia, US",11904,223
+Georgia,"Forsyth, Georgia, US",22227,189
+Georgia,"Franklin, Georgia, US",2650,53
+Georgia,"Fulton, Georgia, US",96443,1370
+Georgia,"Gilmer, Georgia, US",2931,84
+Georgia,"Glascock, Georgia, US",264,19
+Georgia,"Glynn, Georgia, US",8098,172
+Georgia,"Gordon, Georgia, US",8119,114
+Georgia,"Grady, Georgia, US",2130,60
+Georgia,"Greene, Georgia, US",1813,64
+Georgia,"Gwinnett, Georgia, US",100888,1145
+Georgia,"Habersham, Georgia, US",5042,161
+Georgia,"Hall, Georgia, US",27062,464
+Georgia,"Hancock, Georgia, US",909,65
+Georgia,"Haralson, Georgia, US",2621,82
+Georgia,"Harris, Georgia, US",2536,59
+Georgia,"Hart, Georgia, US",2354,52
+Georgia,"Heard, Georgia, US",871,19
+Georgia,"Henry, Georgia, US",25025,323
+Georgia,"Houston, Georgia, US",14501,255
+Georgia,"Irwin, Georgia, US",906,28
+Georgia,"Jackson, Georgia, US",9790,151
+Georgia,"Jasper, Georgia, US",1395,38
+Georgia,"Jeff Davis, Georgia, US",1882,44
+Georgia,"Jefferson, Georgia, US",1940,66
+Georgia,"Jenkins, Georgia, US",852,44
+Georgia,"Johnson, Georgia, US",1115,49
+Georgia,"Jones, Georgia, US",2004,57
+Georgia,"Lamar, Georgia, US",2028,57
+Georgia,"Lanier, Georgia, US",773,13
+Georgia,"Laurens, Georgia, US",5545,167
+Georgia,"Lee, Georgia, US",2714,58
+Georgia,"Liberty, Georgia, US",3968,63
+Georgia,"Lincoln, Georgia, US",804,26
+Georgia,"Long, Georgia, US",847,11
+Georgia,"Lowndes, Georgia, US",12603,208
+Georgia,"Lumpkin, Georgia, US",2937,70
+Georgia,"Macon, Georgia, US",870,30
+Georgia,"Madison, Georgia, US",3217,56
+Georgia,"Marion, Georgia, US",559,19
+Georgia,"McDuffie,Georgia,US",2469,48
+Georgia,"McIntosh, Georgia, US",857,16
+Georgia,"Meriwether, Georgia, US",1992,84
+Georgia,"Miller, Georgia, US",852,13
+Georgia,"Mitchell, Georgia, US",2070,82
+Georgia,"Monroe, Georgia, US",2619,100
+Georgia,"Montgomery, Georgia, US",882,23
+Georgia,"Morgan, Georgia, US",2100,30
+Georgia,"Murray, Georgia, US",4914,86
+Georgia,"Muscogee, Georgia, US",16254,451
+Georgia,"Newton, Georgia, US",11011,237
+Georgia,"Oconee, Georgia, US",3993,72
+Georgia,"Oglethorpe, Georgia, US",1469,29
+Georgia,"Out of GA, Georgia, US",29317,626
+Georgia,"Paulding, Georgia, US",16683,212
+Georgia,"Peach, Georgia, US",2624,59
+Georgia,"Pickens, Georgia, US",3385,79
+Georgia,"Pierce, Georgia, US",2455,55
+Georgia,"Pike, Georgia, US",2260,40
+Georgia,"Polk, Georgia, US",5608,94
+Georgia,"Pulaski, Georgia, US",921,44
+Georgia,"Putnam, Georgia, US",2176,57
+Georgia,"Quitman, Georgia, US",168,2
+Georgia,"Rabun, Georgia, US",1717,49
+Georgia,"Randolph, Georgia, US",624,34
+Georgia,"Richmond, Georgia, US",24454,502
+Georgia,"Rockdale, Georgia, US",7578,171
+Georgia,"Schley, Georgia, US",351,5
+Georgia,"Screven, Georgia, US",982,31
+Georgia,"Seminole, Georgia, US",952,19
+Georgia,"Spalding, Georgia, US",6216,188
+Georgia,"Stephens, Georgia, US",3094,81
+Georgia,"Stewart, Georgia, US",891,25
+Georgia,"Sumter, Georgia, US",2542,101
+Georgia,"Talbot, Georgia, US",474,18
+Georgia,"Taliaferro, Georgia, US",123,3
+Georgia,"Tattnall, Georgia, US",2300,65
+Georgia,"Taylor, Georgia, US",797,25
+Georgia,"Telfair, Georgia, US",1296,57
+Georgia,"Terrell, Georgia, US",800,47
+Georgia,"Thomas, Georgia, US",4388,123
+Georgia,"Tift, Georgia, US",4864,125
+Georgia,"Toombs, Georgia, US",3380,113
+Georgia,"Towns, Georgia, US",1219,55
+Georgia,"Treutlen, Georgia, US",841,27
+Georgia,"Troup, Georgia, US",7463,225
+Georgia,"Turner, Georgia, US",1011,39
+Georgia,"Twiggs, Georgia, US",716,42
+Georgia,"Unassigned, Georgia, US",3203,14
+Georgia,"Union, Georgia, US",2207,73
+Georgia,"Upson, Georgia, US",3447,126
+Georgia,"Walker, Georgia, US",7376,87
+Georgia,"Walton, Georgia, US",10535,255
+Georgia,"Ware, Georgia, US",4834,177
+Georgia,"Warren, Georgia, US",525,17
+Georgia,"Washington, Georgia, US",2025,86
+Georgia,"Wayne, Georgia, US",3573,88
+Georgia,"Webster, Georgia, US",145,4
+Georgia,"Wheeler, Georgia, US",627,24
+Georgia,"White, Georgia, US",3161,80
+Georgia,"Whitfield, Georgia, US",16771,244
+Georgia,"Wilcox, Georgia, US",823,47
+Georgia,"Wilkes, Georgia, US",1070,27
+Georgia,"Wilkinson, Georgia, US",924,28
+Georgia,"Worth, Georgia, US",1779,68
+Grand Princess,"Grand Princess, US",103,3
+Guam,"Guam, US",7981,136
+Hawaii,"Hawaii, Hawaii, US",2759,53
+Hawaii,"Honolulu, Hawaii, US",25611,374
+Hawaii,"Kalawao, Hawaii, US",0,0
+Hawaii,"Kauai, Hawaii, US",271,2
+Hawaii,"Maui, Hawaii, US",4348,52
+Hawaii,"Out of HI, Hawaii, US",1093,3
+Hawaii,"Unassigned, Hawaii, US",0,0
+Idaho,"Ada, Idaho, US",51610,462
+Idaho,"Adams, Idaho, US",336,4
+Idaho,"Bannock, Idaho, US",8713,106
+Idaho,"Bear Lake, Idaho, US",381,2
+Idaho,"Benewah, Idaho, US",670,9
+Idaho,"Bingham, Idaho, US",4804,74
+Idaho,"Blaine, Idaho, US",2363,18
+Idaho,"Boise, Idaho, US",354,2
+Idaho,"Bonner, Idaho, US",3221,42
+Idaho,"Bonneville, Idaho, US",14807,169
+Idaho,"Boundary, Idaho, US",861,10
+Idaho,"Butte, Idaho, US",209,1
+Idaho,"Camas, Idaho, US",71,0
+Idaho,"Canyon, Idaho, US",26441,295
+Idaho,"Caribou, Idaho, US",689,12
+Idaho,"Cassia, Idaho, US",2935,26
+Idaho,"Clark, Idaho, US",59,0
+Idaho,"Clearwater, Idaho, US",1045,13
+Idaho,"Custer, Idaho, US",246,3
+Idaho,"Elmore, Idaho, US",1978,15
+Idaho,"Franklin, Idaho, US",1179,16
+Idaho,"Fremont, Idaho, US",1125,14
+Idaho,"Gem, Idaho, US",1752,38
+Idaho,"Gooding, Idaho, US",1299,24
+Idaho,"Idaho, Idaho, US",1193,18
+Idaho,"Jefferson, Idaho, US",2977,28
+Idaho,"Jerome, Idaho, US",2587,23
+Idaho,"Kootenai, Idaho, US",17776,207
+Idaho,"Latah, Idaho, US",3100,10
+Idaho,"Lemhi, Idaho, US",523,9
+Idaho,"Lewis, Idaho, US",391,9
+Idaho,"Lincoln, Idaho, US",501,11
+Idaho,"Madison, Idaho, US",7149,28
+Idaho,"Minidoka, Idaho, US",2334,32
+Idaho,"Nez Perce, Idaho, US",3585,54
+Idaho,"Oneida, Idaho, US",356,4
+Idaho,"Out of ID, Idaho, US",0,0
+Idaho,"Owyhee, Idaho, US",1058,28
+Idaho,"Payette, Idaho, US",2536,36
+Idaho,"Power, Idaho, US",653,9
+Idaho,"Shoshone, Idaho, US",1091,34
+Idaho,"Teton, Idaho, US",1209,4
+Idaho,"Twin Falls, Idaho, US",9440,126
+Idaho,"Unassigned, Idaho, US",0,0
+Idaho,"Valley, Idaho, US",835,6
+Idaho,"Washington, Idaho, US",1214,21
+Illinois,"Adams, Illinois, US",8325,120
+Illinois,"Alexander, Illinois, US",465,11
+Illinois,"Bond, Illinois, US",2019,24
+Illinois,"Boone, Illinois, US",6596,71
+Illinois,"Brown, Illinois, US",698,6
+Illinois,"Bureau, Illinois, US",3637,82
+Illinois,"Calhoun, Illinois, US",515,2
+Illinois,"Carroll, Illinois, US",1733,36
+Illinois,"Cass, Illinois, US",1973,24
+Illinois,"Champaign, Illinois, US",20333,144
+Illinois,"Christian, Illinois, US",3610,73
+Illinois,"Clark, Illinois, US",1779,32
+Illinois,"Clay, Illinois, US",1480,43
+Illinois,"Clinton, Illinois, US",5737,90
+Illinois,"Coles, Illinois, US",5635,94
+Illinois,"Cook, Illinois, US",536384,9987
+Illinois,"Crawford, Illinois, US",2107,26
+Illinois,"Cumberland, Illinois, US",1288,19
+Illinois,"De Witt, Illinois, US",1449,24
+Illinois,"DeKalb, Illinois, US",9703,119
+Illinois,"Douglas, Illinois, US",2568,35
+Illinois,"DuPage, Illinois, US",89043,1268
+Illinois,"Edgar, Illinois, US",1683,39
+Illinois,"Edwards, Illinois, US",566,12
+Illinois,"Effingham, Illinois, US",4703,72
+Illinois,"Fayette, Illinois, US",3150,55
+Illinois,"Ford, Illinois, US",1748,46
+Illinois,"Franklin, Illinois, US",4390,71
+Illinois,"Fulton, Illinois, US",3815,51
+Illinois,"Gallatin, Illinois, US",457,4
+Illinois,"Greene, Illinois, US",1431,33
+Illinois,"Grundy, Illinois, US",5776,71
+Illinois,"Hamilton, Illinois, US",829,15
+Illinois,"Hancock, Illinois, US",1741,31
+Illinois,"Hardin, Illinois, US",383,12
+Illinois,"Henderson, Illinois, US",522,14
+Illinois,"Henry, Illinois, US",4873,63
+Illinois,"Iroquois, Illinois, US",2957,65
+Illinois,"Jackson, Illinois, US",4946,63
+Illinois,"Jasper, Illinois, US",1148,18
+Illinois,"Jefferson, Illinois, US",4228,119
+Illinois,"Jersey, Illinois, US",2678,49
+Illinois,"Jo Daviess, Illinois, US",1797,24
+Illinois,"Johnson, Illinois, US",1412,14
+Illinois,"Kane, Illinois, US",57368,767
+Illinois,"Kankakee, Illinois, US",13901,207
+Illinois,"Kendall, Illinois, US",12778,91
+Illinois,"Knox, Illinois, US",5469,139
+Illinois,"LaSalle,Illinois,US",12236,239
+Illinois,"Lake, Illinois, US",66132,976
+Illinois,"Lawrence, Illinois, US",2400,25
+Illinois,"Lee, Illinois, US",4096,52
+Illinois,"Livingston, Illinois, US",4738,84
+Illinois,"Logan, Illinois, US",3790,57
+Illinois,"Macon, Illinois, US",10544,194
+Illinois,"Macoupin, Illinois, US",4648,81
+Illinois,"Madison, Illinois, US",30211,518
+Illinois,"Marion, Illinois, US",4440,115
+Illinois,"Marshall, Illinois, US",1025,18
+Illinois,"Mason, Illinois, US",1471,44
+Illinois,"Massac, Illinois, US",1327,40
+Illinois,"McDonough, Illinois, US",2761,45
+Illinois,"McHenry, Illinois, US",28064,284
+Illinois,"McLean, Illinois, US",17740,175
+Illinois,"Menard, Illinois, US",1209,12
+Illinois,"Mercer, Illinois, US",1423,33
+Illinois,"Monroe, Illinois, US",4344,91
+Illinois,"Montgomery, Illinois, US",3685,73
+Illinois,"Morgan, Illinois, US",3833,80
+Illinois,"Moultrie, Illinois, US",1595,26
+Illinois,"Ogle, Illinois, US",5992,80
+Illinois,"Out of IL, Illinois, US",4,0
+Illinois,"Peoria, Illinois, US",22562,296
+Illinois,"Perry, Illinois, US",3140,59
+Illinois,"Piatt, Illinois, US",1453,14
+Illinois,"Pike, Illinois, US",1783,51
+Illinois,"Pope, Illinois, US",314,4
+Illinois,"Pulaski, Illinois, US",683,7
+Illinois,"Putnam, Illinois, US",470,3
+Illinois,"Randolph, Illinois, US",4116,84
+Illinois,"Richland, Illinois, US",1732,40
+Illinois,"Rock Island, Illinois, US",14644,305
+Illinois,"Saline, Illinois, US",2549,53
+Illinois,"Sangamon, Illinois, US",18363,232
+Illinois,"Schuyler, Illinois, US",730,5
+Illinois,"Scott, Illinois, US",476,1
+Illinois,"Shelby, Illinois, US",2272,37
+Illinois,"St. Clair, Illinois, US",27605,509
+Illinois,"Stark, Illinois, US",629,23
+Illinois,"Stephenson, Illinois, US",4644,81
+Illinois,"Tazewell, Illinois, US",16605,277
+Illinois,"Unassigned, Illinois, US",0,2342
+Illinois,"Union, Illinois, US",2241,40
+Illinois,"Vermilion, Illinois, US",9321,131
+Illinois,"Wabash, Illinois, US",1341,12
+Illinois,"Warren, Illinois, US",1774,46
+Illinois,"Washington, Illinois, US",1636,25
+Illinois,"Wayne, Illinois, US",1754,52
+Illinois,"White, Illinois, US",1683,26
+Illinois,"Whiteside, Illinois, US",7082,166
+Illinois,"Will, Illinois, US",74136,980
+Illinois,"Williamson, Illinois, US",7332,128
+Illinois,"Winnebago, Illinois, US",32381,469
+Illinois,"Woodford, Illinois, US",4636,74
+Indiana,"Adams, Indiana, US",3398,54
+Indiana,"Allen, Indiana, US",40111,675
+Indiana,"Bartholomew, Indiana, US",8024,155
+Indiana,"Benton, Indiana, US",983,14
+Indiana,"Blackford, Indiana, US",1343,32
+Indiana,"Boone, Indiana, US",6645,101
+Indiana,"Brown, Indiana, US",1012,41
+Indiana,"Carroll,Indiana,US",1876,20
+Indiana,"Cass, Indiana, US",5762,105
+Indiana,"Clark, Indiana, US",12848,191
+Indiana,"Clay, Indiana, US",2583,45
+Indiana,"Clinton, Indiana, US",4253,53
+Indiana,"Crawford, Indiana, US",988,14
+Indiana,"Daviess, Indiana, US",2942,99
+Indiana,"DeKalb, Indiana, US",4226,84
+Indiana,"Dearborn, Indiana, US",5765,76
+Indiana,"Decatur, Indiana, US",2825,92
+Indiana,"Delaware, Indiana, US",10548,185
+Indiana,"Dubois, Indiana, US",6137,117
+Indiana,"Elkhart, Indiana, US",28150,437
+Indiana,"Fayette, Indiana, US",2782,62
+Indiana,"Floyd, Indiana, US",7615,176
+Indiana,"Fountain, Indiana, US",2115,46
+Indiana,"Franklin, Indiana, US",1667,35
+Indiana,"Fulton, Indiana, US",1938,40
+Indiana,"Gibson, Indiana, US",4334,90
+Indiana,"Grant, Indiana, US",6969,173
+Indiana,"Greene, Indiana, US",2752,85
+Indiana,"Hamilton, Indiana, US",35288,408
+Indiana,"Hancock, Indiana, US",8189,139
+Indiana,"Harrison, Indiana, US",4319,72
+Indiana,"Hendricks, Indiana, US",17072,312
+Indiana,"Henry, Indiana, US",5652,102
+Indiana,"Howard, Indiana, US",9806,215
+Indiana,"Huntington, Indiana, US",3855,80
+Indiana,"Jackson, Indiana, US",4987,72
+Indiana,"Jasper, Indiana, US",3602,47
+Indiana,"Jay, Indiana, US",1900,29
+Indiana,"Jefferson, Indiana, US",3275,81
+Indiana,"Jennings, Indiana, US",2282,48
+Indiana,"Johnson, Indiana, US",17808,375
+Indiana,"Knox, Indiana, US",3708,90
+Indiana,"Kosciusko, Indiana, US",9333,116
+Indiana,"LaGrange, Indiana, US",2634,70
+Indiana,"LaPorte, Indiana, US",11631,209
+Indiana,"Lake, Indiana, US",53031,960
+Indiana,"Lawrence, Indiana, US",4450,120
+Indiana,"Madison, Indiana, US",12501,339
+Indiana,"Marion, Indiana, US",98637,1736
+Indiana,"Marshall, Indiana, US",5941,111
+Indiana,"Martin, Indiana, US",873,15
+Indiana,"Miami, Indiana, US",3787,65
+Indiana,"Monroe, Indiana, US",11786,168
+Indiana,"Montgomery, Indiana, US",4222,88
+Indiana,"Morgan, Indiana, US",6520,139
+Indiana,"Newton, Indiana, US",1067,34
+Indiana,"Noble, Indiana, US",5541,83
+Indiana,"Ohio, Indiana, US",562,11
+Indiana,"Orange, Indiana, US",1817,54
+Indiana,"Out of IN, Indiana, US",0,0
+Indiana,"Owen, Indiana, US",1954,56
+Indiana,"Parke, Indiana, US",1454,16
+Indiana,"Perry, Indiana, US",1823,37
+Indiana,"Pike, Indiana, US",1326,34
+Indiana,"Porter, Indiana, US",18492,304
+Indiana,"Posey, Indiana, US",2707,33
+Indiana,"Pulaski, Indiana, US",1159,45
+Indiana,"Putnam, Indiana, US",3571,60
+Indiana,"Randolph, Indiana, US",2393,81
+Indiana,"Ripley, Indiana, US",3379,70
+Indiana,"Rush, Indiana, US",1724,24
+Indiana,"Scott, Indiana, US",2641,53
+Indiana,"Shelby, Indiana, US",4870,96
+Indiana,"Spencer, Indiana, US",2302,31
+Indiana,"St. Joseph, Indiana, US",35148,549
+Indiana,"Starke, Indiana, US",2126,52
+Indiana,"Steuben, Indiana, US",3796,57
+Indiana,"Sullivan, Indiana, US",2102,42
+Indiana,"Switzerland, Indiana, US",778,8
+Indiana,"Tippecanoe, Indiana, US",22248,217
+Indiana,"Tipton, Indiana, US",1619,45
+Indiana,"Unassigned, Indiana, US",0,412
+Indiana,"Union, Indiana, US",705,10
+Indiana,"Vanderburgh, Indiana, US",22221,395
+Indiana,"Vermillion, Indiana, US",1674,43
+Indiana,"Vigo, Indiana, US",12369,244
+Indiana,"Wabash, Indiana, US",3521,78
+Indiana,"Warren, Indiana, US",804,15
+Indiana,"Warrick, Indiana, US",7754,155
+Indiana,"Washington, Indiana, US",2387,31
+Indiana,"Wayne, Indiana, US",6991,198
+Indiana,"Wells, Indiana, US",2901,81
+Indiana,"White, Indiana, US",3118,54
+Indiana,"Whitley, Indiana, US",3922,39
+Iowa,"Adair, Iowa, US",860,32
+Iowa,"Adams, Iowa, US",337,4
+Iowa,"Allamakee, Iowa, US",1499,51
+Iowa,"Appanoose, Iowa, US",1277,47
+Iowa,"Audubon, Iowa, US",498,9
+Iowa,"Benton, Iowa, US",2546,55
+Iowa,"Black Hawk, Iowa, US",15726,307
+Iowa,"Boone, Iowa, US",2616,34
+Iowa,"Bremer, Iowa, US",2817,60
+Iowa,"Buchanan, Iowa, US",1903,31
+Iowa,"Buena Vista, Iowa, US",4240,40
+Iowa,"Butler, Iowa, US",1635,34
+Iowa,"Calhoun, Iowa, US",1350,13
+Iowa,"Carroll, Iowa, US",2838,52
+Iowa,"Cass, Iowa, US",1374,54
+Iowa,"Cedar, Iowa, US",1881,23
+Iowa,"Cerro Gordo, Iowa, US",5336,89
+Iowa,"Cherokee, Iowa, US",1582,38
+Iowa,"Chickasaw, Iowa, US",1232,15
+Iowa,"Clarke, Iowa, US",991,24
+Iowa,"Clay, Iowa, US",2144,25
+Iowa,"Clayton, Iowa, US",1684,56
+Iowa,"Clinton, Iowa, US",5489,92
+Iowa,"Crawford, Iowa, US",2638,40
+Iowa,"Dallas, Iowa, US",11068,97
+Iowa,"Davis, Iowa, US",808,24
+Iowa,"Decatur, Iowa, US",596,9
+Iowa,"Delaware, Iowa, US",2077,39
+Iowa,"Des Moines, Iowa, US",4497,66
+Iowa,"Dickinson, Iowa, US",2473,43
+Iowa,"Dubuque, Iowa, US",13293,207
+Iowa,"Emmet, Iowa, US",1327,40
+Iowa,"Fayette, Iowa, US",1843,41
+Iowa,"Floyd, Iowa, US",1591,42
+Iowa,"Franklin, Iowa, US",1157,21
+Iowa,"Fremont, Iowa, US",619,9
+Iowa,"Greene, Iowa, US",773,10
+Iowa,"Grundy, Iowa, US",1360,32
+Iowa,"Guthrie, Iowa, US",1201,29
+Iowa,"Hamilton, Iowa, US",1789,49
+Iowa,"Hancock, Iowa, US",1460,34
+Iowa,"Hardin, Iowa, US",1843,43
+Iowa,"Harrison, Iowa, US",1789,73
+Iowa,"Henry, Iowa, US",2898,37
+Iowa,"Howard, Iowa, US",1040,22
+Iowa,"Humboldt, Iowa, US",1187,26
+Iowa,"Ida, Iowa, US",902,34
+Iowa,"Iowa, Iowa, US",1478,24
+Iowa,"Jackson, Iowa, US",2204,42
+Iowa,"Jasper, Iowa, US",4121,70
+Iowa,"Jefferson, Iowa, US",1318,35
+Iowa,"Johnson, Iowa, US",14368,83
+Iowa,"Jones, Iowa, US",2959,57
+Iowa,"Keokuk, Iowa, US",951,31
+Iowa,"Kossuth, Iowa, US",2146,64
+Iowa,"Lee, Iowa, US",3713,55
+Iowa,"Linn, Iowa, US",20642,333
+Iowa,"Louisa, Iowa, US",1277,49
+Iowa,"Lucas, Iowa, US",767,23
+Iowa,"Lyon, Iowa, US",1569,41
+Iowa,"Madison, Iowa, US",1586,19
+Iowa,"Mahaska, Iowa, US",2282,50
+Iowa,"Marion, Iowa, US",3594,75
+Iowa,"Marshall, Iowa, US",4806,75
+Iowa,"Mills, Iowa, US",1612,21
+Iowa,"Mitchell, Iowa, US",1256,42
+Iowa,"Monona, Iowa, US",826,30
+Iowa,"Monroe, Iowa, US",950,28
+Iowa,"Montgomery, Iowa, US",1024,37
+Iowa,"Muscatine, Iowa, US",4706,99
+Iowa,"O'Brien, Iowa, US",1988,60
+Iowa,"Osceola, Iowa, US",776,16
+Iowa,"Out of IA, Iowa, US",0,0
+Iowa,"Page, Iowa, US",1917,21
+Iowa,"Palo Alto, Iowa, US",1119,23
+Iowa,"Plymouth, Iowa, US",3997,79
+Iowa,"Pocahontas, Iowa, US",852,22
+Iowa,"Polk, Iowa, US",57024,619
+Iowa,"Pottawattamie, Iowa, US",10999,166
+Iowa,"Poweshiek, Iowa, US",1541,33
+Iowa,"Ringgold, Iowa, US",544,24
+Iowa,"Sac, Iowa, US",1294,19
+Iowa,"Scott, Iowa, US",19653,239
+Iowa,"Shelby, Iowa, US",1302,37
+Iowa,"Sioux, Iowa, US",5104,74
+Iowa,"Story, Iowa, US",10508,48
+Iowa,"Tama, Iowa, US",2085,71
+Iowa,"Taylor, Iowa, US",655,12
+Iowa,"Unassigned, Iowa, US",1004,0
+Iowa,"Union, Iowa, US",1273,32
+Iowa,"Van Buren, Iowa, US",556,18
+Iowa,"Wapello, Iowa, US",4271,122
+Iowa,"Warren, Iowa, US",5697,88
+Iowa,"Washington, Iowa, US",2515,50
+Iowa,"Wayne, Iowa, US",530,23
+Iowa,"Webster, Iowa, US",5103,92
+Iowa,"Winnebago, Iowa, US",1404,31
+Iowa,"Winneshiek, Iowa, US",1961,33
+Iowa,"Woodbury, Iowa, US",15058,228
+Iowa,"Worth, Iowa, US",733,8
+Iowa,"Wright, Iowa, US",1822,36
+Kansas,"Allen, Kansas, US",1239,18
+Kansas,"Anderson, Kansas, US",836,18
+Kansas,"Atchison, Kansas, US",1614,14
+Kansas,"Barber, Kansas, US",374,6
+Kansas,"Barton, Kansas, US",2606,47
+Kansas,"Bourbon, Kansas, US",1404,26
+Kansas,"Brown, Kansas, US",1235,38
+Kansas,"Butler, Kansas, US",7487,85
+Kansas,"Chase, Kansas, US",259,3
+Kansas,"Chautauqua, Kansas, US",267,6
+Kansas,"Cherokee, Kansas, US",2470,52
+Kansas,"Cheyenne, Kansas, US",362,14
+Kansas,"Clark, Kansas, US",252,7
+Kansas,"Clay, Kansas, US",799,29
+Kansas,"Cloud, Kansas, US",982,23
+Kansas,"Coffey, Kansas, US",726,23
+Kansas,"Comanche, Kansas, US",167,9
+Kansas,"Cowley, Kansas, US",3942,107
+Kansas,"Crawford, Kansas, US",4719,77
+Kansas,"Decatur, Kansas, US",269,12
+Kansas,"Dickinson, Kansas, US",1744,44
+Kansas,"Doniphan, Kansas, US",967,23
+Kansas,"Douglas, Kansas, US",9205,82
+Kansas,"Edwards, Kansas, US",263,12
+Kansas,"Elk, Kansas, US",179,5
+Kansas,"Ellis, Kansas, US",3734,71
+Kansas,"Ellsworth, Kansas, US",1221,25
+Kansas,"Finney, Kansas, US",6048,71
+Kansas,"Ford, Kansas, US",5743,74
+Kansas,"Franklin, Kansas, US",2544,43
+Kansas,"Geary, Kansas, US",3366,40
+Kansas,"Gove, Kansas, US",386,19
+Kansas,"Graham, Kansas, US",265,9
+Kansas,"Grant, Kansas, US",941,18
+Kansas,"Gray, Kansas, US",563,14
+Kansas,"Greeley, Kansas, US",104,1
+Kansas,"Greenwood, Kansas, US",556,11
+Kansas,"Hamilton, Kansas, US",202,1
+Kansas,"Harper, Kansas, US",616,18
+Kansas,"Harvey, Kansas, US",3613,68
+Kansas,"Haskell, Kansas, US",418,9
+Kansas,"Hodgeman, Kansas, US",211,8
+Kansas,"Jackson, Kansas, US",1398,16
+Kansas,"Jefferson, Kansas, US",1710,34
+Kansas,"Jewell, Kansas, US",210,6
+Kansas,"Johnson, Kansas, US",57888,752
+Kansas,"Kearny, Kansas, US",567,10
+Kansas,"Kingman, Kansas, US",752,15
+Kansas,"Kiowa, Kansas, US",238,4
+Kansas,"Labette, Kansas, US",2734,10
+Kansas,"Lane, Kansas, US",126,7
+Kansas,"Leavenworth, Kansas, US",7188,91
+Kansas,"Lincoln, Kansas, US",263,5
+Kansas,"Linn, Kansas, US",810,8
+Kansas,"Logan, Kansas, US",289,6
+Kansas,"Lyon, Kansas, US",4261,84
+Kansas,"Marion, Kansas, US",1095,24
+Kansas,"Marshall, Kansas, US",1084,23
+Kansas,"McPherson, Kansas, US",3256,80
+Kansas,"Meade, Kansas, US",513,12
+Kansas,"Miami, Kansas, US",2741,42
+Kansas,"Mitchell, Kansas, US",561,18
+Kansas,"Montgomery, Kansas, US",3449,79
+Kansas,"Morris, Kansas, US",581,22
+Kansas,"Morton, Kansas, US",255,8
+Kansas,"Nemaha, Kansas, US",1510,55
+Kansas,"Neosho, Kansas, US",1800,35
+Kansas,"Ness, Kansas, US",371,16
+Kansas,"Norton, Kansas, US",1205,26
+Kansas,"Osage, Kansas, US",1232,25
+Kansas,"Osborne, Kansas, US",289,12
+Kansas,"Ottawa, Kansas, US",551,13
+Kansas,"Out of KS, Kansas, US",0,0
+Kansas,"Pawnee, Kansas, US",1165,13
+Kansas,"Phillips, Kansas, US",713,24
+Kansas,"Pottawatomie, Kansas, US",1886,30
+Kansas,"Pratt, Kansas, US",814,25
+Kansas,"Rawlins, Kansas, US",300,7
+Kansas,"Reno, Kansas, US",8490,138
+Kansas,"Republic, Kansas, US",661,13
+Kansas,"Rice, Kansas, US",1074,12
+Kansas,"Riley, Kansas, US",6421,43
+Kansas,"Rooks, Kansas, US",654,11
+Kansas,"Rush, Kansas, US",431,14
+Kansas,"Russell, Kansas, US",858,29
+Kansas,"Saline, Kansas, US",6216,134
+Kansas,"Scott, Kansas, US",585,23
+Kansas,"Sedgwick, Kansas, US",56132,745
+Kansas,"Seward, Kansas, US",3858,41
+Kansas,"Shawnee, Kansas, US",17380,359
+Kansas,"Sheridan, Kansas, US",432,13
+Kansas,"Sherman, Kansas, US",633,12
+Kansas,"Smith, Kansas, US",270,3
+Kansas,"Stafford, Kansas, US",339,9
+Kansas,"Stanton, Kansas, US",184,6
+Kansas,"Stevens, Kansas, US",558,10
+Kansas,"Sumner, Kansas, US",2158,51
+Kansas,"Thomas, Kansas, US",1096,20
+Kansas,"Trego, Kansas, US",406,8
+Kansas,"Unassigned, Kansas, US",0,0
+Kansas,"Wabaunsee, Kansas, US",679,13
+Kansas,"Wallace, Kansas, US",178,4
+Kansas,"Washington, Kansas, US",533,14
+Kansas,"Wichita, Kansas, US",216,6
+Kansas,"Wilson, Kansas, US",1006,16
+Kansas,"Woodson, Kansas, US",216,5
+Kansas,"Wyandotte, Kansas, US",20233,279
+Kentucky,"Adair, Kentucky, US",1847,54
+Kentucky,"Allen, Kentucky, US",2054,40
+Kentucky,"Anderson, Kentucky, US",1728,21
+Kentucky,"Ballard, Kentucky, US",394,8
+Kentucky,"Barren, Kentucky, US",4434,91
+Kentucky,"Bath, Kentucky, US",959,21
+Kentucky,"Bell, Kentucky, US",3084,54
+Kentucky,"Boone, Kentucky, US",13750,121
+Kentucky,"Bourbon, Kentucky, US",1677,14
+Kentucky,"Boyd, Kentucky, US",4914,73
+Kentucky,"Boyle, Kentucky, US",3401,70
+Kentucky,"Bracken, Kentucky, US",622,7
+Kentucky,"Breathitt, Kentucky, US",993,8
+Kentucky,"Breckinridge, Kentucky, US",1241,15
+Kentucky,"Bullitt, Kentucky, US",7145,72
+Kentucky,"Butler, Kentucky, US",1444,24
+Kentucky,"Caldwell, Kentucky, US",1447,30
+Kentucky,"Calloway, Kentucky, US",3504,51
+Kentucky,"Campbell, Kentucky, US",8350,70
+Kentucky,"Carlisle, Kentucky, US",470,9
+Kentucky,"Carroll, Kentucky, US",996,19
+Kentucky,"Carter, Kentucky, US",2261,34
+Kentucky,"Casey, Kentucky, US",1381,35
+Kentucky,"Christian, Kentucky, US",6875,104
+Kentucky,"Clark, Kentucky, US",2836,29
+Kentucky,"Clay, Kentucky, US",2654,44
+Kentucky,"Clinton, Kentucky, US",1442,31
+Kentucky,"Crittenden, Kentucky, US",656,21
+Kentucky,"Cumberland, Kentucky, US",698,10
+Kentucky,"Daviess, Kentucky, US",10636,182
+Kentucky,"Edmonson, Kentucky, US",902,21
+Kentucky,"Elliott, Kentucky, US",961,2
+Kentucky,"Estill, Kentucky, US",1072,11
+Kentucky,"Fayette, Kentucky, US",35389,295
+Kentucky,"Fleming, Kentucky, US",1170,22
+Kentucky,"Floyd, Kentucky, US",3381,65
+Kentucky,"Franklin, Kentucky, US",4005,46
+Kentucky,"Fulton, Kentucky, US",511,14
+Kentucky,"Gallatin, Kentucky, US",692,28
+Kentucky,"Garrard, Kentucky, US",1514,35
+Kentucky,"Grant, Kentucky, US",2251,18
+Kentucky,"Graves, Kentucky, US",4164,92
+Kentucky,"Grayson, Kentucky, US",2133,54
+Kentucky,"Green, Kentucky, US",1201,15
+Kentucky,"Greenup, Kentucky, US",3561,59
+Kentucky,"Hancock, Kentucky, US",878,15
+Kentucky,"Hardin, Kentucky, US",9623,154
+Kentucky,"Harlan, Kentucky, US",2802,83
+Kentucky,"Harrison, Kentucky, US",1679,23
+Kentucky,"Hart, Kentucky, US",1966,47
+Kentucky,"Henderson, Kentucky, US",4715,72
+Kentucky,"Henry, Kentucky, US",1346,13
+Kentucky,"Hickman, Kentucky, US",375,10
+Kentucky,"Hopkins, Kentucky, US",4432,145
+Kentucky,"Jackson, Kentucky, US",1303,32
+Kentucky,"Jefferson, Kentucky, US",79606,1178
+Kentucky,"Jessamine, Kentucky, US",4551,64
+Kentucky,"Johnson, Kentucky, US",1928,34
+Kentucky,"Kenton, Kentucky, US",16163,171
+Kentucky,"Knott, Kentucky, US",1138,23
+Kentucky,"Knox, Kentucky, US",3340,36
+Kentucky,"Larue, Kentucky, US",1313,26
+Kentucky,"Laurel, Kentucky, US",6604,70
+Kentucky,"Lawrence, Kentucky, US",1426,22
+Kentucky,"Lee, Kentucky, US",1272,26
+Kentucky,"Leslie, Kentucky, US",909,7
+Kentucky,"Letcher, Kentucky, US",1894,42
+Kentucky,"Lewis, Kentucky, US",1291,35
+Kentucky,"Lincoln, Kentucky, US",2290,50
+Kentucky,"Livingston, Kentucky, US",842,20
+Kentucky,"Logan, Kentucky, US",2830,64
+Kentucky,"Lyon, Kentucky, US",1526,19
+Kentucky,"Madison, Kentucky, US",9269,109
+Kentucky,"Magoffin, Kentucky, US",945,14
+Kentucky,"Marion, Kentucky, US",2289,37
+Kentucky,"Marshall, Kentucky, US",2759,56
+Kentucky,"Martin, Kentucky, US",1027,20
+Kentucky,"Mason, Kentucky, US",1661,34
+Kentucky,"McCracken, Kentucky, US",6509,120
+Kentucky,"McCreary, Kentucky, US",1973,29
+Kentucky,"McLean, Kentucky, US",878,27
+Kentucky,"Meade, Kentucky, US",2013,25
+Kentucky,"Menifee, Kentucky, US",470,16
+Kentucky,"Mercer, Kentucky, US",2534,50
+Kentucky,"Metcalfe, Kentucky, US",1036,26
+Kentucky,"Monroe, Kentucky, US",1327,41
+Kentucky,"Montgomery, Kentucky, US",2610,30
+Kentucky,"Morgan, Kentucky, US",2238,3
+Kentucky,"Muhlenberg, Kentucky, US",2919,61
+Kentucky,"Nelson, Kentucky, US",4888,53
+Kentucky,"Nicholas, Kentucky, US",541,8
+Kentucky,"Ohio, Kentucky, US",2440,53
+Kentucky,"Oldham, Kentucky, US",7524,82
+Kentucky,"Out of KY, Kentucky, US",0,0
+Kentucky,"Owen, Kentucky, US",661,13
+Kentucky,"Owsley, Kentucky, US",490,14
+Kentucky,"Pendleton, Kentucky, US",1022,4
+Kentucky,"Perry, Kentucky, US",2638,65
+Kentucky,"Pike, Kentucky, US",5502,94
+Kentucky,"Powell, Kentucky, US",1243,12
+Kentucky,"Pulaski, Kentucky, US",6260,94
+Kentucky,"Robertson, Kentucky, US",225,14
+Kentucky,"Rockcastle, Kentucky, US",1492,22
+Kentucky,"Rowan, Kentucky, US",2211,20
+Kentucky,"Russell, Kentucky, US",1820,43
+Kentucky,"Scott, Kentucky, US",4894,32
+Kentucky,"Shelby, Kentucky, US",4641,70
+Kentucky,"Simpson, Kentucky, US",2079,36
+Kentucky,"Spencer, Kentucky, US",1594,22
+Kentucky,"Taylor, Kentucky, US",3049,46
+Kentucky,"Todd, Kentucky, US",1122,25
+Kentucky,"Trigg, Kentucky, US",1281,14
+Kentucky,"Trimble, Kentucky, US",680,7
+Kentucky,"Unassigned, Kentucky, US",9,0
+Kentucky,"Union, Kentucky, US",1332,15
+Kentucky,"Warren, Kentucky, US",15839,169
+Kentucky,"Washington, Kentucky, US",1432,37
+Kentucky,"Wayne, Kentucky, US",2142,44
+Kentucky,"Webster, Kentucky, US",1238,20
+Kentucky,"Whitley, Kentucky, US",4902,55
+Kentucky,"Wolfe, Kentucky, US",516,5
+Kentucky,"Woodford, Kentucky, US",2133,19
+Louisiana,"Acadia, Louisiana, US",6481,192
+Louisiana,"Allen, Louisiana, US",3168,91
+Louisiana,"Ascension, Louisiana, US",12080,164
+Louisiana,"Assumption, Louisiana, US",2173,36
+Louisiana,"Avoyelles, Louisiana, US",4178,123
+Louisiana,"Beauregard, Louisiana, US",3166,77
+Louisiana,"Bienville, Louisiana, US",1660,81
+Louisiana,"Bossier, Louisiana, US",13752,298
+Louisiana,"Caddo, Louisiana, US",25830,740
+Louisiana,"Calcasieu, Louisiana, US",22340,426
+Louisiana,"Caldwell, Louisiana, US",1107,29
+Louisiana,"Cameron, Louisiana, US",599,6
+Louisiana,"Catahoula, Louisiana, US",1153,38
+Louisiana,"Claiborne, Louisiana, US",1435,55
+Louisiana,"Concordia, Louisiana, US",1854,60
+Louisiana,"De Soto, Louisiana, US",2763,78
+Louisiana,"East Baton Rouge, Louisiana, US",39099,800
+Louisiana,"East Carroll, Louisiana, US",1124,25
+Louisiana,"East Feliciana, Louisiana, US",3147,112
+Louisiana,"Evangeline, Louisiana, US",3580,92
+Louisiana,"Franklin, Louisiana, US",2477,105
+Louisiana,"Grant, Louisiana, US",2132,56
+Louisiana,"Iberia, Louisiana, US",6971,153
+Louisiana,"Iberville, Louisiana, US",3796,98
+Louisiana,"Jackson, Louisiana, US",1904,50
+Louisiana,"Jefferson, Louisiana, US",45903,891
+Louisiana,"Jefferson Davis, Louisiana, US",3149,96
+Louisiana,"LaSalle,Louisiana,US",1528,36
+Louisiana,"Lafayette, Louisiana, US",23220,276
+Louisiana,"Lafourche, Louisiana, US",9514,204
+Louisiana,"Lincoln, Louisiana, US",4482,92
+Louisiana,"Livingston, Louisiana, US",13311,206
+Louisiana,"Madison, Louisiana, US",1563,39
+Louisiana,"Morehouse, Louisiana, US",2815,74
+Louisiana,"Natchitoches, Louisiana, US",4040,86
+Louisiana,"Orleans, Louisiana, US",29878,792
+Louisiana,"Ouachita, Louisiana, US",18301,449
+Louisiana,"Out of LA, Louisiana, US",0,0
+Louisiana,"Plaquemines, Louisiana, US",2517,26
+Louisiana,"Pointe Coupee, Louisiana, US",2612,73
+Louisiana,"Rapides, Louisiana, US",11974,314
+Louisiana,"Red River, Louisiana, US",874,38
+Louisiana,"Richland, Louisiana, US",2416,55
+Louisiana,"Sabine, Louisiana, US",2925,60
+Louisiana,"St. Bernard, Louisiana, US",4003,50
+Louisiana,"St. Charles, Louisiana, US",5373,93
+Louisiana,"St. Helena, Louisiana, US",922,10
+Louisiana,"St. James, Louisiana, US",1955,50
+Louisiana,"St. John the Baptist, Louisiana, US",3696,137
+Louisiana,"St. Landry, Louisiana, US",8813,253
+Louisiana,"St. Martin, Louisiana, US",5208,116
+Louisiana,"St. Mary, Louisiana, US",4665,136
+Louisiana,"St. Tammany, Louisiana, US",25568,520
+Louisiana,"Tangipahoa, Louisiana, US",12610,292
+Louisiana,"Tensas, Louisiana, US",360,8
+Louisiana,"Terrebonne, Louisiana, US",10100,220
+Louisiana,"Unassigned, Louisiana, US",411,0
+Louisiana,"Union, Louisiana, US",2379,77
+Louisiana,"Vermilion, Louisiana, US",5324,119
+Louisiana,"Vernon, Louisiana, US",3058,101
+Louisiana,"Washington, Louisiana, US",4357,130
+Louisiana,"Webster, Louisiana, US",4086,112
+Louisiana,"West Baton Rouge, Louisiana, US",2841,59
+Louisiana,"West Carroll, Louisiana, US",1173,41
+Louisiana,"West Feliciana, Louisiana, US",1153,34
+Louisiana,"Winn, Louisiana, US",1535,43
+Maine,"Androscoggin, Maine, US",7289,71
+Maine,"Aroostook, Maine, US",1686,45
+Maine,"Cumberland, Maine, US",16211,189
+Maine,"Franklin, Maine, US",1229,13
+Maine,"Hancock, Maine, US",1231,36
+Maine,"Kennebec, Maine, US",5706,68
+Maine,"Knox, Maine, US",1000,5
+Maine,"Lincoln, Maine, US",877,2
+Maine,"Out of ME, Maine, US",0,0
+Maine,"Oxford, Maine, US",3269,62
+Maine,"Penobscot, Maine, US",5421,90
+Maine,"Piscataquis, Maine, US",450,6
+Maine,"Sagadahoc, Maine, US",1291,10
+Maine,"Somerset, Maine, US",1911,29
+Maine,"Unassigned, Maine, US",14,0
+Maine,"Waldo, Maine, US",848,19
+Maine,"Washington, Maine, US",835,15
+Maine,"York, Maine, US",12579,130
+Maryland,"Allegany, Maryland, US",6846,207
+Maryland,"Anne Arundel, Maryland, US",42661,596
+Maryland,"Baltimore, Maryland, US",63739,1478
+Maryland,"Baltimore City, Maryland, US",51206,1038
+Maryland,"Calvert, Maryland, US",4160,78
+Maryland,"Caroline, Maryland, US",2266,25
+Maryland,"Carroll, Maryland, US",9153,235
+Maryland,"Cecil, Maryland, US",6075,129
+Maryland,"Charles, Maryland, US",10567,190
+Maryland,"Dorchester, Maryland, US",2718,51
+Maryland,"Frederick, Maryland, US",19466,320
+Maryland,"Garrett, Maryland, US",1982,63
+Maryland,"Harford, Maryland, US",16133,272
+Maryland,"Howard, Maryland, US",18907,233
+Maryland,"Kent, Maryland, US",1317,46
+Maryland,"Montgomery, Maryland, US",69922,1523
+Maryland,"Out of MD, Maryland, US",0,0
+Maryland,"Prince George's, Maryland, US",83218,1460
+Maryland,"Queen Anne's, Maryland, US",2933,45
+Maryland,"Somerset, Maryland, US",2541,37
+Maryland,"St. Mary's, Maryland, US",5859,123
+Maryland,"Talbot, Maryland, US",2080,37
+Maryland,"Unassigned, Maryland, US",0,78
+Maryland,"Washington, Maryland, US",14208,274
+Maryland,"Wicomico, Maryland, US",7457,152
+Maryland,"Worcester, Maryland, US",3575,98
+Massachusetts,"Barnstable, Massachusetts, US",13573,462
+Massachusetts,"Berkshire, Massachusetts, US",6338,282
+Massachusetts,"Bristol, Massachusetts, US",64985,1703
+Massachusetts,"Dukes, Massachusetts, US",0,0
+Massachusetts,"Dukes and Nantucket,Massachusetts,US",2773,5
+Massachusetts,"Essex, Massachusetts, US",95677,2352
+Massachusetts,"Franklin, Massachusetts, US",2480,113
+Massachusetts,"Hampden, Massachusetts, US",50846,1497
+Massachusetts,"Hampshire, Massachusetts, US",8969,291
+Massachusetts,"Middlesex, Massachusetts, US",132603,3725
+Massachusetts,"Nantucket, Massachusetts, US",0,0
+Massachusetts,"Norfolk, Massachusetts, US",53846,1776
+Massachusetts,"Out of MA, Massachusetts, US",0,0
+Massachusetts,"Plymouth, Massachusetts, US",47964,1415
+Massachusetts,"Suffolk, Massachusetts, US",91087,1820
+Massachusetts,"Unassigned, Massachusetts, US",44525,7
+Massachusetts,"Worcester, Massachusetts, US",75506,2191
+Michigan,"Alcona, Michigan, US",704,28
+Michigan,"Alger, Michigan, US",496,6
+Michigan,"Allegan, Michigan, US",10353,131
+Michigan,"Alpena, Michigan, US",2075,59
+Michigan,"Antrim, Michigan, US",1528,27
+Michigan,"Arenac, Michigan, US",1084,29
+Michigan,"Baraga, Michigan, US",686,34
+Michigan,"Barry, Michigan, US",5512,63
+Michigan,"Bay, Michigan, US",10578,324
+Michigan,"Benzie, Michigan, US",1221,33
+Michigan,"Berrien, Michigan, US",14642,270
+Michigan,"Branch, Michigan, US",4590,94
+Michigan,"Calhoun, Michigan, US",13465,271
+Michigan,"Cass, Michigan, US",5211,74
+Michigan,"Charlevoix, Michigan, US",1570,20
+Michigan,"Cheboygan, Michigan, US",1819,41
+Michigan,"Chippewa, Michigan, US",2378,32
+Michigan,"Clare, Michigan, US",2273,74
+Michigan,"Clinton, Michigan, US",7286,82
+Michigan,"Crawford, Michigan, US",934,13
+Michigan,"Delta, Michigan, US",3861,88
+Michigan,"Dickinson, Michigan, US",2673,74
+Michigan,"Eaton, Michigan, US",9681,187
+Michigan,"Emmet, Michigan, US",2245,41
+Michigan,"Federal Correctional Institution (FCI), Michigan, US",316,5
+Michigan,"Genesee, Michigan, US",39733,871
+Michigan,"Gladwin, Michigan, US",2185,50
+Michigan,"Gogebic, Michigan, US",1364,50
+Michigan,"Grand Traverse, Michigan, US",6173,88
+Michigan,"Gratiot, Michigan, US",3762,112
+Michigan,"Hillsdale, Michigan, US",4156,85
+Michigan,"Houghton, Michigan, US",3039,40
+Michigan,"Huron, Michigan, US",3969,73
+Michigan,"Ingham, Michigan, US",23709,351
+Michigan,"Ionia, Michigan, US",5757,78
+Michigan,"Iosco, Michigan, US",1860,70
+Michigan,"Iron, Michigan, US",1007,51
+Michigan,"Isabella, Michigan, US",5869,85
+Michigan,"Jackson, Michigan, US",14849,261
+Michigan,"Kalamazoo, Michigan, US",21641,361
+Michigan,"Kalkaska, Michigan, US",1055,21
+Michigan,"Kent, Michigan, US",68438,793
+Michigan,"Keweenaw, Michigan, US",173,2
+Michigan,"Lake, Michigan, US",585,15
+Michigan,"Lapeer, Michigan, US",8720,177
+Michigan,"Leelanau, Michigan, US",1193,18
+Michigan,"Lenawee, Michigan, US",8909,151
+Michigan,"Livingston, Michigan, US",15876,172
+Michigan,"Luce, Michigan, US",361,2
+Michigan,"Mackinac, Michigan, US",619,3
+Michigan,"Macomb, Michigan, US",94975,2259
+Michigan,"Manistee, Michigan, US",1136,22
+Michigan,"Marquette, Michigan, US",4904,58
+Michigan,"Mason, Michigan, US",2006,32
+Michigan,"Mecosta, Michigan, US",2974,30
+Michigan,"Menominee, Michigan, US",2051,41
+Michigan,"Michigan Department of Corrections (MDOC), Michigan, US",26530,153
+Michigan,"Midland, Michigan, US",7085,78
+Michigan,"Missaukee, Michigan, US",1415,23
+Michigan,"Monroe, Michigan, US",14574,240
+Michigan,"Montcalm, Michigan, US",5441,103
+Michigan,"Montmorency, Michigan, US",544,19
+Michigan,"Muskegon, Michigan, US",14510,328
+Michigan,"Newaygo, Michigan, US",4450,58
+Michigan,"Oakland, Michigan, US",111429,2211
+Michigan,"Oceana, Michigan, US",2605,54
+Michigan,"Ogemaw, Michigan, US",1563,36
+Michigan,"Ontonagon, Michigan, US",454,21
+Michigan,"Osceola, Michigan, US",1796,27
+Michigan,"Oscoda, Michigan, US",588,24
+Michigan,"Otsego, Michigan, US",2200,36
+Michigan,"Ottawa, Michigan, US",30760,398
+Michigan,"Out of MI, Michigan, US",1898,14
+Michigan,"Presque Isle, Michigan, US",973,31
+Michigan,"Roscommon, Michigan, US",1808,47
+Michigan,"Saginaw, Michigan, US",19852,568
+Michigan,"Sanilac, Michigan, US",4110,103
+Michigan,"Schoolcraft, Michigan, US",358,5
+Michigan,"Shiawassee, Michigan, US",6023,96
+Michigan,"St. Clair, Michigan, US",17379,389
+Michigan,"St. Joseph, Michigan, US",5863,94
+Michigan,"Tuscola, Michigan, US",5403,163
+Michigan,"Unassigned, Michigan, US",21,0
+Michigan,"Van Buren, Michigan, US",6746,116
+Michigan,"Washtenaw, Michigan, US",25449,270
+Michigan,"Wayne, Michigan, US",155417,4655
+Michigan,"Wexford, Michigan, US",2702,40
+Minnesota,"Aitkin, Minnesota, US",1325,36
+Minnesota,"Anoka, Minnesota, US",40525,432
+Minnesota,"Becker, Minnesota, US",3732,49
+Minnesota,"Beltrami, Minnesota, US",3847,58
+Minnesota,"Benton, Minnesota, US",5561,97
+Minnesota,"Big Stone, Minnesota, US",590,4
+Minnesota,"Blue Earth, Minnesota, US",7321,41
+Minnesota,"Brown, Minnesota, US",3026,40
+Minnesota,"Carlton, Minnesota, US",3391,52
+Minnesota,"Carver, Minnesota, US",10254,45
+Minnesota,"Cass, Minnesota, US",2646,28
+Minnesota,"Chippewa, Minnesota, US",1509,38
+Minnesota,"Chisago, Minnesota, US",5766,51
+Minnesota,"Clay, Minnesota, US",8046,91
+Minnesota,"Clearwater, Minnesota, US",846,16
+Minnesota,"Cook, Minnesota, US",155,0
+Minnesota,"Cottonwood, Minnesota, US",1613,21
+Minnesota,"Crow Wing, Minnesota, US",6483,87
+Minnesota,"Dakota, Minnesota, US",44707,439
+Minnesota,"Dodge, Minnesota, US",1800,3
+Minnesota,"Douglas, Minnesota, US",4573,74
+Minnesota,"Faribault, Minnesota, US",1488,19
+Minnesota,"Fillmore,Minnesota,US",1535,9
+Minnesota,"Freeborn, Minnesota, US",3381,29
+Minnesota,"Goodhue, Minnesota, US",4676,72
+Minnesota,"Grant, Minnesota, US",561,8
+Minnesota,"Hennepin, Minnesota, US",120196,1707
+Minnesota,"Houston, Minnesota, US",1667,15
+Minnesota,"Hubbard, Minnesota, US",1817,41
+Minnesota,"Isanti, Minnesota, US",4051,62
+Minnesota,"Itasca, Minnesota, US",4113,53
+Minnesota,"Jackson, Minnesota, US",1208,11
+Minnesota,"Kanabec, Minnesota, US",1416,24
+Minnesota,"Kandiyohi, Minnesota, US",6452,81
+Minnesota,"Kittson, Minnesota, US",481,22
+Minnesota,"Koochiching, Minnesota, US",804,14
+Minnesota,"Lac qui Parle,Minnesota,US",748,22
+Minnesota,"Lake, Minnesota, US",803,19
+Minnesota,"Lake of the Woods, Minnesota, US",316,3
+Minnesota,"Le Sueur, Minnesota, US",2834,22
+Minnesota,"Lincoln, Minnesota, US",571,3
+Minnesota,"Lyon, Minnesota, US",3563,50
+Minnesota,"Mahnomen, Minnesota, US",536,8
+Minnesota,"Marshall, Minnesota, US",873,17
+Minnesota,"Martin, Minnesota, US",2264,31
+Minnesota,"McLeod, Minnesota, US",4153,58
+Minnesota,"Meeker, Minnesota, US",2488,38
+Minnesota,"Mille Lacs, Minnesota, US",2967,52
+Minnesota,"Morrison, Minnesota, US",4105,60
+Minnesota,"Mower, Minnesota, US",4586,32
+Minnesota,"Murray, Minnesota, US",1052,9
+Minnesota,"Nicollet, Minnesota, US",3193,43
+Minnesota,"Nobles, Minnesota, US",4061,48
+Minnesota,"Norman, Minnesota, US",536,9
+Minnesota,"Olmsted, Minnesota, US",13067,97
+Minnesota,"Otter Tail, Minnesota, US",5645,75
+Minnesota,"Out of MN, Minnesota, US",0,0
+Minnesota,"Pennington, Minnesota, US",1532,19
+Minnesota,"Pine, Minnesota, US",3217,21
+Minnesota,"Pipestone, Minnesota, US",1136,26
+Minnesota,"Polk, Minnesota, US",3781,67
+Minnesota,"Pope, Minnesota, US",1064,6
+Minnesota,"Ramsey, Minnesota, US",50015,864
+Minnesota,"Red Lake, Minnesota, US",394,7
+Minnesota,"Redwood, Minnesota, US",1705,36
+Minnesota,"Renville, Minnesota, US",1770,43
+Minnesota,"Rice, Minnesota, US",7897,104
+Minnesota,"Rock, Minnesota, US",1266,19
+Minnesota,"Roseau, Minnesota, US",2045,19
+Minnesota,"Scott, Minnesota, US",16874,123
+Minnesota,"Sherburne, Minnesota, US",11331,84
+Minnesota,"Sibley, Minnesota, US",1395,10
+Minnesota,"St. Louis, Minnesota, US",17394,302
+Minnesota,"Stearns, Minnesota, US",21815,220
+Minnesota,"Steele, Minnesota, US",3778,15
+Minnesota,"Stevens, Minnesota, US",880,10
+Minnesota,"Swift, Minnesota, US",1038,18
+Minnesota,"Todd, Minnesota, US",2757,31
+Minnesota,"Traverse, Minnesota, US",367,5
+Minnesota,"Unassigned, Minnesota, US",501,93
+Minnesota,"Wabasha, Minnesota, US",2024,3
+Minnesota,"Wadena, Minnesota, US",1515,21
+Minnesota,"Waseca, Minnesota, US",2347,21
+Minnesota,"Washington, Minnesota, US",26161,278
+Minnesota,"Watonwan, Minnesota, US",1287,9
+Minnesota,"Wilkin, Minnesota, US",796,12
+Minnesota,"Winona, Minnesota, US",4473,50
+Minnesota,"Wright, Minnesota, US",15624,135
+Minnesota,"Yellow Medicine, Minnesota, US",1133,20
+Mississippi,"Adams, Mississippi, US",2567,82
+Mississippi,"Alcorn, Mississippi, US",3097,68
+Mississippi,"Amite, Mississippi, US",1227,42
+Mississippi,"Attala, Mississippi, US",2142,73
+Mississippi,"Benton, Mississippi, US",984,25
+Mississippi,"Bolivar, Mississippi, US",4793,131
+Mississippi,"Calhoun, Mississippi, US",1685,32
+Mississippi,"Carroll, Mississippi, US",1215,27
+Mississippi,"Chickasaw, Mississippi, US",2065,57
+Mississippi,"Choctaw, Mississippi, US",752,18
+Mississippi,"Claiborne, Mississippi, US",1021,30
+Mississippi,"Clarke, Mississippi, US",1782,79
+Mississippi,"Clay, Mississippi, US",1843,54
+Mississippi,"Coahoma, Mississippi, US",2931,79
+Mississippi,"Copiah, Mississippi, US",2957,65
+Mississippi,"Covington, Mississippi, US",2560,80
+Mississippi,"DeSoto, Mississippi, US",21321,256
+Mississippi,"Forrest, Mississippi, US",7620,150
+Mississippi,"Franklin, Mississippi, US",831,23
+Mississippi,"George, Mississippi, US",2452,47
+Mississippi,"Greene, Mississippi, US",1300,33
+Mississippi,"Grenada, Mississippi, US",2590,85
+Mississippi,"Hancock, Mississippi, US",3759,86
+Mississippi,"Harrison, Mississippi, US",17735,307
+Mississippi,"Hinds, Mississippi, US",20214,414
+Mississippi,"Holmes, Mississippi, US",1882,72
+Mississippi,"Humphreys, Mississippi, US",953,32
+Mississippi,"Issaquena, Mississippi, US",168,6
+Mississippi,"Itawamba, Mississippi, US",2990,77
+Mississippi,"Jackson, Mississippi, US",13363,246
+Mississippi,"Jasper, Mississippi, US",2206,48
+Mississippi,"Jefferson, Mississippi, US",651,28
+Mississippi,"Jefferson Davis, Mississippi, US",1067,32
+Mississippi,"Jones, Mississippi, US",8354,163
+Mississippi,"Kemper, Mississippi, US",958,28
+Mississippi,"Lafayette, Mississippi, US",6142,118
+Mississippi,"Lamar, Mississippi, US",6191,86
+Mississippi,"Lauderdale, Mississippi, US",7218,240
+Mississippi,"Lawrence, Mississippi, US",1281,23
+Mississippi,"Leake, Mississippi, US",2640,73
+Mississippi,"Lee, Mississippi, US",9944,172
+Mississippi,"Leflore, Mississippi, US",3484,125
+Mississippi,"Lincoln, Mississippi, US",3928,110
+Mississippi,"Lowndes, Mississippi, US",6348,144
+Mississippi,"Madison, Mississippi, US",10035,216
+Mississippi,"Marion, Mississippi, US",2684,80
+Mississippi,"Marshall, Mississippi, US",4368,103
+Mississippi,"Monroe, Mississippi, US",4084,133
+Mississippi,"Montgomery, Mississippi, US",1262,42
+Mississippi,"Neshoba, Mississippi, US",4021,176
+Mississippi,"Newton, Mississippi, US",2470,61
+Mississippi,"Noxubee, Mississippi, US",1268,34
+Mississippi,"Oktibbeha, Mississippi, US",4593,98
+Mississippi,"Out of MS, Mississippi, US",0,0
+Mississippi,"Panola, Mississippi, US",4530,103
+Mississippi,"Pearl River, Mississippi, US",4482,145
+Mississippi,"Perry, Mississippi, US",1259,38
+Mississippi,"Pike, Mississippi, US",3280,105
+Mississippi,"Pontotoc, Mississippi, US",4188,72
+Mississippi,"Prentiss, Mississippi, US",2780,59
+Mississippi,"Quitman, Mississippi, US",795,16
+Mississippi,"Rankin, Mississippi, US",13520,278
+Mississippi,"Scott, Mississippi, US",3139,73
+Mississippi,"Sharkey, Mississippi, US",501,17
+Mississippi,"Simpson, Mississippi, US",2935,88
+Mississippi,"Smith, Mississippi, US",1619,34
+Mississippi,"Stone, Mississippi, US",1808,33
+Mississippi,"Sunflower, Mississippi, US",3346,90
+Mississippi,"Tallahatchie, Mississippi, US",1771,40
+Mississippi,"Tate, Mississippi, US",3309,84
+Mississippi,"Tippah, Mississippi, US",2868,68
+Mississippi,"Tishomingo, Mississippi, US",2244,67
+Mississippi,"Tunica, Mississippi, US",1044,25
+Mississippi,"Unassigned, Mississippi, US",0,0
+Mississippi,"Union, Mississippi, US",4079,76
+Mississippi,"Walthall, Mississippi, US",1335,45
+Mississippi,"Warren, Mississippi, US",4348,120
+Mississippi,"Washington, Mississippi, US",5313,133
+Mississippi,"Wayne, Mississippi, US",2622,41
+Mississippi,"Webster, Mississippi, US",1145,32
+Mississippi,"Wilkinson, Mississippi, US",665,30
+Mississippi,"Winston, Mississippi, US",2267,81
+Mississippi,"Yalobusha, Mississippi, US",1617,36
+Mississippi,"Yazoo, Mississippi, US",3095,69
+Missouri,"Adair, Missouri, US",2367,19
+Missouri,"Andrew, Missouri, US",1852,20
+Missouri,"Atchison, Missouri, US",454,6
+Missouri,"Audrain, Missouri, US",2702,57
+Missouri,"Barry, Missouri, US",2882,45
+Missouri,"Barton, Missouri, US",1168,14
+Missouri,"Bates, Missouri, US",1310,29
+Missouri,"Benton, Missouri, US",1654,33
+Missouri,"Bollinger, Missouri, US",1114,12
+Missouri,"Boone, Missouri, US",17869,91
+Missouri,"Buchanan, Missouri, US",9241,143
+Missouri,"Butler, Missouri, US",4170,42
+Missouri,"Caldwell, Missouri, US",768,13
+Missouri,"Callaway, Missouri, US",4946,47
+Missouri,"Camden, Missouri, US",4079,87
+Missouri,"Cape Girardeau, Missouri, US",8789,134
+Missouri,"Carroll, Missouri, US",1032,23
+Missouri,"Carter, Missouri, US",542,10
+Missouri,"Cass, Missouri, US",9079,107
+Missouri,"Cedar, Missouri, US",1083,21
+Missouri,"Chariton, Missouri, US",674,8
+Missouri,"Christian, Missouri, US",8383,91
+Missouri,"Clark, Missouri, US",670,7
+Missouri,"Clay, Missouri, US",9933,164
+Missouri,"Clinton, Missouri, US",1951,65
+Missouri,"Cole, Missouri, US",9066,122
+Missouri,"Cooper, Missouri, US",1908,27
+Missouri,"Crawford, Missouri, US",2568,36
+Missouri,"Dade, Missouri, US",574,17
+Missouri,"Dallas, Missouri, US",1254,27
+Missouri,"Daviess, Missouri, US",700,11
+Missouri,"DeKalb, Missouri, US",1124,31
+Missouri,"Dent, Missouri, US",958,17
+Missouri,"Douglas, Missouri, US",906,27
+Missouri,"Dunklin, Missouri, US",2808,22
+Missouri,"Franklin, Missouri, US",10568,181
+Missouri,"Gasconade, Missouri, US",1532,45
+Missouri,"Gentry, Missouri, US",822,20
+Missouri,"Greene, Missouri, US",28061,464
+Missouri,"Grundy, Missouri, US",988,34
+Missouri,"Harrison, Missouri, US",875,14
+Missouri,"Henry, Missouri, US",2006,38
+Missouri,"Hickory, Missouri, US",642,15
+Missouri,"Holt, Missouri, US",440,13
+Missouri,"Howard, Missouri, US",1046,7
+Missouri,"Howell, Missouri, US",3479,43
+Missouri,"Iron, Missouri, US",892,6
+Missouri,"Jackson, Missouri, US",37670,417
+Missouri,"Jasper,Missouri,US",15413,233
+Missouri,"Jefferson, Missouri, US",23129,241
+Missouri,"Johnson, Missouri, US",4751,52
+Missouri,"Kansas City,Missouri,US",43441,572
+Missouri,"Knox, Missouri, US",374,2
+Missouri,"Laclede, Missouri, US",3276,68
+Missouri,"Lafayette, Missouri, US",3034,56
+Missouri,"Lawrence, Missouri, US",3384,81
+Missouri,"Lewis, Missouri, US",1014,13
+Missouri,"Lincoln, Missouri, US",5808,41
+Missouri,"Linn, Missouri, US",1183,13
+Missouri,"Livingston, Missouri, US",1654,40
+Missouri,"Macon, Missouri, US",1538,15
+Missouri,"Madison, Missouri, US",1636,16
+Missouri,"Maries, Missouri, US",635,8
+Missouri,"Marion, Missouri, US",3608,45
+Missouri,"McDonald, Missouri, US",2386,28
+Missouri,"Mercer, Missouri, US",299,2
+Missouri,"Miller, Missouri, US",2529,54
+Missouri,"Mississippi, Missouri, US",1445,28
+Missouri,"Moniteau, Missouri, US",1782,31
+Missouri,"Monroe, Missouri, US",995,12
+Missouri,"Montgomery, Missouri, US",1031,11
+Missouri,"Morgan, Missouri, US",1707,43
+Missouri,"New Madrid, Missouri, US",2111,43
+Missouri,"Newton, Missouri, US",5265,75
+Missouri,"Nodaway, Missouri, US",2688,25
+Missouri,"Oregon, Missouri, US",794,3
+Missouri,"Osage, Missouri, US",1615,15
+Missouri,"Out of MO, Missouri, US",0,0
+Missouri,"Ozark, Missouri, US",644,17
+Missouri,"Pemiscot, Missouri, US",1579,30
+Missouri,"Perry, Missouri, US",2213,30
+Missouri,"Pettis, Missouri, US",5102,78
+Missouri,"Phelps, Missouri, US",3819,129
+Missouri,"Pike, Missouri, US",1785,24
+Missouri,"Platte, Missouri, US",4133,47
+Missouri,"Polk, Missouri, US",3231,34
+Missouri,"Pulaski, Missouri, US",3458,51
+Missouri,"Putnam, Missouri, US",299,4
+Missouri,"Ralls, Missouri, US",1053,12
+Missouri,"Randolph, Missouri, US",2630,30
+Missouri,"Ray, Missouri, US",1934,27
+Missouri,"Reynolds, Missouri, US",378,3
+Missouri,"Ripley, Missouri, US",1063,15
+Missouri,"Saline, Missouri, US",2823,38
+Missouri,"Schuyler, Missouri, US",337,6
+Missouri,"Scotland, Missouri, US",305,3
+Missouri,"Scott, Missouri, US",4689,84
+Missouri,"Shannon, Missouri, US",581,12
+Missouri,"Shelby, Missouri, US",580,7
+Missouri,"St. Charles, Missouri, US",42419,451
+Missouri,"St. Clair, Missouri, US",783,8
+Missouri,"St. Francois, Missouri, US",8755,115
+Missouri,"St. Louis, Missouri, US",97849,2184
+Missouri,"St. Louis City, Missouri, US",24169,484
+Missouri,"Ste. Genevieve, Missouri, US",1810,16
+Missouri,"Stoddard, Missouri, US",2476,37
+Missouri,"Stone, Missouri, US",2415,44
+Missouri,"Sullivan, Missouri, US",841,14
+Missouri,"Taney, Missouri, US",5262,92
+Missouri,"Texas, Missouri, US",1825,23
+Missouri,"Unassigned, Missouri, US",0,0
+Missouri,"Vernon, Missouri, US",1938,43
+Missouri,"Warren, Missouri, US",3111,22
+Missouri,"Washington, Missouri, US",2710,49
+Missouri,"Wayne, Missouri, US",1032,11
+Missouri,"Webster, Missouri, US",3580,54
+Missouri,"Worth, Missouri, US",162,2
+Missouri,"Wright, Missouri, US",1577,32
+Montana,"Beaverhead, Montana, US",908,9
+Montana,"Big Horn, Montana, US",2547,75
+Montana,"Blaine, Montana, US",751,23
+Montana,"Broadwater, Montana, US",486,5
+Montana,"Carbon, Montana, US",863,14
+Montana,"Carter, Montana, US",146,5
+Montana,"Cascade, Montana, US",8883,169
+Montana,"Chouteau, Montana, US",499,6
+Montana,"Custer, Montana, US",1185,18
+Montana,"Daniels, Montana, US",197,8
+Montana,"Dawson, Montana, US",1102,30
+Montana,"Deer Lodge, Montana, US",1113,15
+Montana,"Fallon, Montana, US",281,2
+Montana,"Fergus, Montana, US",1109,31
+Montana,"Flathead, Montana, US",11788,93
+Montana,"Gallatin, Montana, US",14496,62
+Montana,"Garfield, Montana, US",80,2
+Montana,"Glacier, Montana, US",1528,42
+Montana,"Golden Valley, Montana, US",55,2
+Montana,"Granite, Montana, US",192,2
+Montana,"Hill, Montana, US",1962,44
+Montana,"Jefferson, Montana, US",1071,8
+Montana,"Judith Basin, Montana, US",90,1
+Montana,"Lake, Montana, US",2027,36
+Montana,"Lewis and Clark, Montana, US",6781,87
+Montana,"Liberty, Montana, US",117,1
+Montana,"Lincoln, Montana, US",1612,17
+Montana,"Madison, Montana, US",781,8
+Montana,"McCone, Montana, US",183,1
+Montana,"Meagher, Montana, US",153,7
+Montana,"Mineral, Montana, US",252,0
+Montana,"Missoula, Montana, US",9011,93
+Montana,"Musselshell, Montana, US",339,11
+Montana,"Out of MT, Montana, US",0,0
+Montana,"Park, Montana, US",1284,19
+Montana,"Petroleum, Montana, US",12,1
+Montana,"Phillips, Montana, US",521,16
+Montana,"Pondera, Montana, US",477,4
+Montana,"Powder River, Montana, US",120,6
+Montana,"Powell, Montana, US",920,10
+Montana,"Prairie, Montana, US",141,2
+Montana,"Ravalli, Montana, US",3036,32
+Montana,"Richland, Montana, US",1223,17
+Montana,"Roosevelt, Montana, US",1627,54
+Montana,"Rosebud, Montana, US",1206,48
+Montana,"Sanders, Montana, US",639,15
+Montana,"Sheridan, Montana, US",423,5
+Montana,"Silver Bow, Montana, US",4084,85
+Montana,"Stillwater, Montana, US",723,14
+Montana,"Sweet Grass, Montana, US",394,7
+Montana,"Teton, Montana, US",464,5
+Montana,"Toole, Montana, US",718,11
+Montana,"Treasure, Montana, US",55,1
+Montana,"Unassigned, Montana, US",0,0
+Montana,"Valley, Montana, US",891,18
+Montana,"Wheatland, Montana, US",177,8
+Montana,"Wibaux, Montana, US",120,6
+Montana,"Yellowstone, Montana, US",17187,263
+Nebraska,"Adams, Nebraska, US",2905,43
+Nebraska,"Antelope, Nebraska, US",525,6
+Nebraska,"Arthur, Nebraska, US",22,1
+Nebraska,"Banner, Nebraska, US",35,0
+Nebraska,"Blaine, Nebraska, US",20,0
+Nebraska,"Boone, Nebraska, US",584,4
+Nebraska,"Box Butte, Nebraska, US",934,9
+Nebraska,"Boyd, Nebraska, US",174,3
+Nebraska,"Brown, Nebraska, US",219,2
+Nebraska,"Buffalo, Nebraska, US",5476,58
+Nebraska,"Burt, Nebraska, US",666,12
+Nebraska,"Butler, Nebraska, US",849,11
+Nebraska,"Cass, Nebraska, US",2639,16
+Nebraska,"Cedar, Nebraska, US",767,11
+Nebraska,"Chase, Nebraska, US",462,5
+Nebraska,"Cherry, Nebraska, US",299,7
+Nebraska,"Cheyenne, Nebraska, US",929,18
+Nebraska,"Clay, Nebraska, US",693,11
+Nebraska,"Colfax, Nebraska, US",1591,21
+Nebraska,"Cuming, Nebraska, US",1039,11
+Nebraska,"Custer, Nebraska, US",846,18
+Nebraska,"Dakota, Nebraska, US",3914,63
+Nebraska,"Dawes, Nebraska, US",741,18
+Nebraska,"Dawson, Nebraska, US",2880,31
+Nebraska,"Deuel, Nebraska, US",101,2
+Nebraska,"Dixon, Nebraska, US",606,9
+Nebraska,"Dodge, Nebraska, US",4927,60
+Nebraska,"Douglas, Nebraska, US",70713,668
+Nebraska,"Dundy, Nebraska, US",179,4
+Nebraska,"Fillmore, Nebraska, US",500,10
+Nebraska,"Franklin, Nebraska, US",240,4
+Nebraska,"Frontier, Nebraska, US",193,1
+Nebraska,"Furnas, Nebraska, US",504,5
+Nebraska,"Gage, Nebraska, US",2185,19
+Nebraska,"Garden, Nebraska, US",113,1
+Nebraska,"Garfield, Nebraska, US",149,3
+Nebraska,"Gosper, Nebraska, US",181,5
+Nebraska,"Grant, Nebraska, US",39,4
+Nebraska,"Greeley, Nebraska, US",213,2
+Nebraska,"Hall, Nebraska, US",7729,117
+Nebraska,"Hamilton, Nebraska, US",936,17
+Nebraska,"Harlan, Nebraska, US",219,0
+Nebraska,"Hayes, Nebraska, US",59,0
+Nebraska,"Hitchcock, Nebraska, US",253,5
+Nebraska,"Holt, Nebraska, US",858,16
+Nebraska,"Hooker, Nebraska, US",54,2
+Nebraska,"Howard, Nebraska, US",551,17
+Nebraska,"Jefferson, Nebraska, US",663,1
+Nebraska,"Johnson, Nebraska, US",640,9
+Nebraska,"Kearney, Nebraska, US",688,5
+Nebraska,"Keith, Nebraska, US",717,10
+Nebraska,"Keya Paha, Nebraska, US",53,0
+Nebraska,"Kimball, Nebraska, US",414,7
+Nebraska,"Knox, Nebraska, US",886,12
+Nebraska,"Lancaster, Nebraska, US",31071,168
+Nebraska,"Lincoln, Nebraska, US",3775,54
+Nebraska,"Logan, Nebraska, US",81,0
+Nebraska,"Loup, Nebraska, US",42,0
+Nebraska,"Madison, Nebraska, US",4222,42
+Nebraska,"McPherson, Nebraska, US",29,1
+Nebraska,"Merrick, Nebraska, US",758,15
+Nebraska,"Morrill, Nebraska, US",506,15
+Nebraska,"Nance, Nebraska, US",410,10
+Nebraska,"Nemaha, Nebraska, US",681,15
+Nebraska,"Nuckolls, Nebraska, US",430,11
+Nebraska,"Otoe, Nebraska, US",1448,9
+Nebraska,"Out of NE, Nebraska, US",0,0
+Nebraska,"Pawnee, Nebraska, US",233,1
+Nebraska,"Perkins, Nebraska, US",288,11
+Nebraska,"Phelps, Nebraska, US",994,10
+Nebraska,"Pierce, Nebraska, US",630,20
+Nebraska,"Platte, Nebraska, US",4125,48
+Nebraska,"Polk, Nebraska, US",582,9
+Nebraska,"Red Willow, Nebraska, US",1207,15
+Nebraska,"Richardson, Nebraska, US",722,19
+Nebraska,"Rock, Nebraska, US",102,2
+Nebraska,"Saline, Nebraska, US",2025,3
+Nebraska,"Sarpy, Nebraska, US",22532,129
+Nebraska,"Saunders, Nebraska, US",2509,16
+Nebraska,"Scotts Bluff, Nebraska, US",4120,92
+Nebraska,"Seward, Nebraska, US",1738,31
+Nebraska,"Sheridan, Nebraska, US",510,19
+Nebraska,"Sherman, Nebraska, US",191,4
+Nebraska,"Sioux, Nebraska, US",39,0
+Nebraska,"Stanton, Nebraska, US",361,9
+Nebraska,"Thayer, Nebraska, US",494,4
+Nebraska,"Thomas, Nebraska, US",53,1
+Nebraska,"Thurston, Nebraska, US",833,12
+Nebraska,"Unassigned, Nebraska, US",1867,7
+Nebraska,"Valley, Nebraska, US",328,3
+Nebraska,"Washington, Nebraska, US",2187,24
+Nebraska,"Wayne, Nebraska, US",1077,7
+Nebraska,"Webster, Nebraska, US",380,6
+Nebraska,"Wheeler, Nebraska, US",39,0
+Nebraska,"York, Nebraska, US",1736,9
+Nevada,"Carson City, Nevada, US",6425,123
+Nevada,"Churchill, Nevada, US",2031,49
+Nevada,"Clark, Nevada, US",243942,4309
+Nevada,"Douglas, Nevada, US",2807,35
+Nevada,"Elko, Nevada, US",4816,56
+Nevada,"Esmeralda, Nevada, US",38,0
+Nevada,"Eureka, Nevada, US",51,0
+Nevada,"Humboldt, Nevada, US",1168,13
+Nevada,"Lander, Nevada, US",450,9
+Nevada,"Lincoln, Nevada, US",361,3
+Nevada,"Lyon, Nevada, US",3134,65
+Nevada,"Mineral, Nevada, US",308,7
+Nevada,"Nye, Nevada, US",2918,106
+Nevada,"Out of NV, Nevada, US",0,0
+Nevada,"Pershing, Nevada, US",954,20
+Nevada,"Storey, Nevada, US",102,3
+Nevada,"Unassigned, Nevada, US",0,0
+Nevada,"Washoe, Nevada, US",45339,669
+Nevada,"White Pine, Nevada, US",594,6
+New Hampshire,"Belknap, New Hampshire, US",3933,98
+New Hampshire,"Carroll, New Hampshire, US",2339,9
+New Hampshire,"Cheshire, New Hampshire, US",3556,33
+New Hampshire,"Coos, New Hampshire, US",1888,41
+New Hampshire,"Grafton, New Hampshire, US",3807,26
+New Hampshire,"Hillsborough, New Hampshire, US",34900,623
+New Hampshire,"Merrimack, New Hampshire, US",9257,113
+New Hampshire,"Out of NH, New Hampshire, US",0,0
+New Hampshire,"Rockingham, New Hampshire, US",23427,250
+New Hampshire,"Strafford, New Hampshire, US",9474,82
+New Hampshire,"Sullivan, New Hampshire, US",1674,25
+New Hampshire,"Unassigned, New Hampshire, US",1122,5
+New Jersey,"Atlantic, New Jersey, US",31032,663
+New Jersey,"Bergen, New Jersey, US",101198,2829
+New Jersey,"Burlington, New Jersey, US",43902,833
+New Jersey,"Camden, New Jersey, US",54072,1268
+New Jersey,"Cape May, New Jersey, US",8957,201
+New Jersey,"Cumberland, New Jersey, US",16489,423
+New Jersey,"Essex, New Jersey, US",93273,2906
+New Jersey,"Gloucester, New Jersey, US",29770,611
+New Jersey,"Hudson, New Jersey, US",87000,2223
+New Jersey,"Hunterdon, New Jersey, US",9523,172
+New Jersey,"Mercer, New Jersey, US",33352,933
+New Jersey,"Middlesex, New Jersey, US",91143,2307
+New Jersey,"Monmouth, New Jersey, US",74446,1582
+New Jersey,"Morris, New Jersey, US",49534,1215
+New Jersey,"Ocean, New Jersey, US",74742,2116
+New Jersey,"Out of NJ, New Jersey, US",0,0
+New Jersey,"Passaic, New Jersey, US",71630,1868
+New Jersey,"Salem, New Jersey, US",5903,178
+New Jersey,"Somerset, New Jersey, US",29489,828
+New Jersey,"Sussex, New Jersey, US",13620,296
+New Jersey,"Unassigned, New Jersey, US",852,0
+New Jersey,"Union, New Jersey, US",70399,1930
+New Jersey,"Warren, New Jersey, US",9684,234
+New Mexico,"Bernalillo, New Mexico, US",56899,931
+New Mexico,"Catron, New Mexico, US",92,5
+New Mexico,"Chaves, New Mexico, US",8917,170
+New Mexico,"Cibola, New Mexico, US",2861,110
+New Mexico,"Colfax, New Mexico, US",750,47
+New Mexico,"Curry, New Mexico, US",5109,76
+New Mexico,"De Baca, New Mexico, US",146,1
+New Mexico,"Dona Ana, New Mexico, US",24589,448
+New Mexico,"Eddy, New Mexico, US",6801,129
+New Mexico,"Grant, New Mexico, US",1696,36
+New Mexico,"Guadalupe, New Mexico, US",378,9
+New Mexico,"Harding, New Mexico, US",10,0
+New Mexico,"Hidalgo, New Mexico, US",361,9
+New Mexico,"Lea, New Mexico, US",8272,164
+New Mexico,"Lincoln, New Mexico, US",1662,19
+New Mexico,"Los Alamos, New Mexico, US",518,6
+New Mexico,"Luna, New Mexico, US",3308,85
+New Mexico,"McKinley, New Mexico, US",12231,465
+New Mexico,"Mora, New Mexico, US",170,6
+New Mexico,"Otero, New Mexico, US",3791,75
+New Mexico,"Out of NM, New Mexico, US",0,0
+New Mexico,"Quay, New Mexico, US",452,8
+New Mexico,"Rio Arriba, New Mexico, US",3583,76
+New Mexico,"Roosevelt, New Mexico, US",1894,55
+New Mexico,"San Juan, New Mexico, US",14514,468
+New Mexico,"San Miguel, New Mexico, US",1342,17
+New Mexico,"Sandoval, New Mexico, US",11856,228
+New Mexico,"Santa Fe, New Mexico, US",10103,145
+New Mexico,"Sierra, New Mexico, US",746,49
+New Mexico,"Socorro, New Mexico, US",1309,56
+New Mexico,"Taos, New Mexico, US",1656,51
+New Mexico,"Torrance, New Mexico, US",720,13
+New Mexico,"Unassigned, New Mexico, US",4115,0
+New Mexico,"Union, New Mexico, US",250,9
+New Mexico,"Valencia, New Mexico, US",6632,107
+New York,"Albany, New York, US",24180,347
+New York,"Allegany, New York, US",3309,84
+New York,"Bronx, New York, US",179181,6478
+New York,"Broome, New York, US",17997,354
+New York,"Cattaraugus, New York, US",5411,84
+New York,"Cayuga, New York, US",6062,92
+New York,"Chautauqua, New York, US",8641,138
+New York,"Chemung, New York, US",7385,133
+New York,"Chenango, New York, US",3298,75
+New York,"Clinton, New York, US",4701,33
+New York,"Columbia, New York, US",3898,100
+New York,"Cortland, New York, US",3636,60
+New York,"Delaware, New York, US",2271,37
+New York,"Dutchess, New York, US",28744,442
+New York,"Erie, New York, US",86606,1755
+New York,"Essex, New York, US",1545,26
+New York,"Franklin, New York, US",2488,12
+New York,"Fulton, New York, US",4219,90
+New York,"Genesee, New York, US",5228,121
+New York,"Greene, New York, US",3266,75
+New York,"Hamilton, New York, US",303,2
+New York,"Herkimer, New York, US",5003,107
+New York,"Jefferson, New York, US",5676,66
+New York,"Kings, New York, US",273437,10180
+New York,"Lewis, New York, US",2561,34
+New York,"Livingston, New York, US",4199,58
+New York,"Madison, New York, US",4396,88
+New York,"Monroe, New York, US",64206,1051
+New York,"Montgomery, New York, US",4092,120
+New York,"Nassau, New York, US",180730,3150
+New York,"New York, New York, US",135366,4401
+New York,"Niagara, New York, US",19190,343
+New York,"Oneida, New York, US",21915,502
+New York,"Onondaga, New York, US",37316,668
+New York,"Ontario, New York, US",7154,92
+New York,"Orange, New York, US",47317,810
+New York,"Orleans, New York, US",2941,83
+New York,"Oswego, New York, US",7237,90
+New York,"Otsego, New York, US",3320,47
+New York,"Out of NY, New York, US",0,227
+New York,"Putnam, New York, US",10433,91
+New York,"Queens, New York, US",270843,9752
+New York,"Rensselaer, New York, US",10942,139
+New York,"Richmond, New York, US",73008,1779
+New York,"Rockland, New York, US",46347,952
+New York,"Saratoga, New York, US",14806,164
+New York,"Schenectady, New York, US",12743,194
+New York,"Schoharie, New York, US",1614,16
+New York,"Schuyler, New York, US",1019,14
+New York,"Seneca, New York, US",1938,56
+New York,"St. Lawrence, New York, US",6370,96
+New York,"Steuben, New York, US",6564,143
+New York,"Suffolk, New York, US",197546,3353
+New York,"Sullivan, New York, US",6415,71
+New York,"Tioga, New York, US",3589,61
+New York,"Tompkins, New York, US",4158,50
+New York,"Ulster, New York, US",13537,250
+New York,"Unassigned, New York, US",141,72
+New York,"Warren, New York, US",3488,57
+New York,"Washington, New York, US",2981,55
+New York,"Wayne, New York, US",5471,67
+New York,"Westchester, New York, US",127913,2259
+New York,"Wyoming, New York, US",3415,51
+New York,"Yates, New York, US",1142,26
+North Carolina,"Alamance, North Carolina, US",17794,265
+North Carolina,"Alexander,North Carolina,US",4351,84
+North Carolina,"Alleghany, North Carolina, US",1011,5
+North Carolina,"Anson, North Carolina, US",2527,55
+North Carolina,"Ashe, North Carolina, US",2081,41
+North Carolina,"Avery, North Carolina, US",2095,20
+North Carolina,"Beaufort, North Carolina, US",4526,95
+North Carolina,"Bertie, North Carolina, US",1749,43
+North Carolina,"Bladen, North Carolina, US",3230,41
+North Carolina,"Brunswick, North Carolina, US",9012,152
+North Carolina,"Buncombe, North Carolina, US",17429,313
+North Carolina,"Burke, North Carolina, US",9856,153
+North Carolina,"Cabarrus, North Carolina, US",21462,252
+North Carolina,"Caldwell, North Carolina, US",9234,105
+North Carolina,"Camden, North Carolina, US",652,5
+North Carolina,"Carteret, North Carolina, US",5071,51
+North Carolina,"Caswell, North Carolina, US",2144,27
+North Carolina,"Catawba, North Carolina, US",19156,300
+North Carolina,"Chatham, North Carolina, US",4594,88
+North Carolina,"Cherokee, North Carolina, US",2500,20
+North Carolina,"Chowan, North Carolina, US",1451,22
+North Carolina,"Clay, North Carolina, US",726,18
+North Carolina,"Cleveland, North Carolina, US",11317,224
+North Carolina,"Columbus, North Carolina, US",6285,151
+North Carolina,"Craven, North Carolina, US",9186,123
+North Carolina,"Cumberland, North Carolina, US",27907,299
+North Carolina,"Currituck, North Carolina, US",1522,16
+North Carolina,"Dare, North Carolina, US",2082,10
+North Carolina,"Davidson, North Carolina, US",16195,185
+North Carolina,"Davie, North Carolina, US",4011,37
+North Carolina,"Duplin, North Carolina, US",6204,133
+North Carolina,"Durham, North Carolina, US",24774,218
+North Carolina,"Edgecombe, North Carolina, US",5462,111
+North Carolina,"Forsyth, North Carolina, US",35263,374
+North Carolina,"Franklin, North Carolina, US",6668,49
+North Carolina,"Gaston, North Carolina, US",26177,420
+North Carolina,"Gates, North Carolina, US",729,13
+North Carolina,"Graham, North Carolina, US",581,12
+North Carolina,"Granville, North Carolina, US",5878,81
+North Carolina,"Greene, North Carolina, US",2287,44
+North Carolina,"Guilford, North Carolina, US",46460,695
+North Carolina,"Halifax, North Carolina, US",5520,109
+North Carolina,"Harnett, North Carolina, US",11324,169
+North Carolina,"Haywood, North Carolina, US",4303,95
+North Carolina,"Henderson, North Carolina, US",10037,158
+North Carolina,"Hertford, North Carolina, US",2079,63
+North Carolina,"Hoke, North Carolina, US",4594,55
+North Carolina,"Hyde, North Carolina, US",665,8
+North Carolina,"Iredell, North Carolina, US",18407,207
+North Carolina,"Jackson, North Carolina, US",3579,55
+North Carolina,"Johnston, North Carolina, US",21075,216
+North Carolina,"Jones, North Carolina, US",819,26
+North Carolina,"Lee, North Carolina, US",5905,76
+North Carolina,"Lenoir, North Carolina, US",5873,113
+North Carolina,"Lincoln, North Carolina, US",9852,85
+North Carolina,"Macon, North Carolina, US",3055,38
+North Carolina,"Madison, North Carolina, US",1546,41
+North Carolina,"Martin, North Carolina, US",2231,39
+North Carolina,"McDowell, North Carolina, US",5192,63
+North Carolina,"Mecklenburg, North Carolina, US",109948,941
+North Carolina,"Mitchell, North Carolina, US",1405,16
+North Carolina,"Montgomery, North Carolina, US",3295,93
+North Carolina,"Moore, North Carolina, US",8768,187
+North Carolina,"Nash, North Carolina, US",11312,185
+North Carolina,"New Hanover, North Carolina, US",18846,164
+North Carolina,"Northampton, North Carolina, US",1863,58
+North Carolina,"Onslow, North Carolina, US",16588,142
+North Carolina,"Orange, North Carolina, US",8483,101
+North Carolina,"Out of NC, North Carolina, US",0,0
+North Carolina,"Pamlico, North Carolina, US",1115,13
+North Carolina,"Pasquotank, North Carolina, US",3305,80
+North Carolina,"Pender, North Carolina, US",5308,69
+North Carolina,"Perquimans, North Carolina, US",988,10
+North Carolina,"Person, North Carolina, US",3318,67
+North Carolina,"Pitt, North Carolina, US",19269,86
+North Carolina,"Polk, North Carolina, US",1457,29
+North Carolina,"Randolph, North Carolina, US",14844,225
+North Carolina,"Richmond, North Carolina, US",4600,92
+North Carolina,"Robeson, North Carolina, US",16245,230
+North Carolina,"Rockingham, North Carolina, US",7398,106
+North Carolina,"Rowan, North Carolina, US",16586,300
+North Carolina,"Rutherford, North Carolina, US",7216,206
+North Carolina,"Sampson, North Carolina, US",7827,108
+North Carolina,"Scotland, North Carolina, US",3724,84
+North Carolina,"Stanly, North Carolina, US",7701,131
+North Carolina,"Stokes, North Carolina, US",3967,80
+North Carolina,"Surry, North Carolina, US",8090,158
+North Carolina,"Swain, North Carolina, US",1207,18
+North Carolina,"Transylvania, North Carolina, US",2317,32
+North Carolina,"Tyrrell, North Carolina, US",318,6
+North Carolina,"Unassigned, North Carolina, US",1,0
+North Carolina,"Union, North Carolina, US",23975,216
+North Carolina,"Vance, North Carolina, US",4886,86
+North Carolina,"Wake, North Carolina, US",85911,721
+North Carolina,"Warren, North Carolina, US",1777,20
+North Carolina,"Washington, North Carolina, US",1054,31
+North Carolina,"Watauga, North Carolina, US",4525,31
+North Carolina,"Wayne, North Carolina, US",10989,245
+North Carolina,"Wilkes, North Carolina, US",6550,111
+North Carolina,"Wilson, North Carolina, US",9554,172
+North Carolina,"Yadkin, North Carolina, US",3939,47
+North Carolina,"Yancey, North Carolina, US",1588,28
+North Dakota,"Adams, North Dakota, US",269,3
+North Dakota,"Barnes, North Dakota, US",1403,31
+North Dakota,"Benson, North Dakota, US",1080,18
+North Dakota,"Billings, North Dakota, US",54,0
+North Dakota,"Bottineau, North Dakota, US",713,20
+North Dakota,"Bowman, North Dakota, US",401,5
+North Dakota,"Burke, North Dakota, US",235,1
+North Dakota,"Burleigh, North Dakota, US",15526,191
+North Dakota,"Cass, North Dakota, US",24285,205
+North Dakota,"Cavalier, North Dakota, US",429,5
+North Dakota,"Dickey, North Dakota, US",779,33
+North Dakota,"Divide, North Dakota, US",178,2
+North Dakota,"Dunn, North Dakota, US",378,7
+North Dakota,"Eddy, North Dakota, US",468,6
+North Dakota,"Emmons, North Dakota, US",419,13
+North Dakota,"Foster, North Dakota, US",582,19
+North Dakota,"Golden Valley, North Dakota, US",257,3
+North Dakota,"Grand Forks, North Dakota, US",10540,77
+North Dakota,"Grant, North Dakota, US",200,7
+North Dakota,"Griggs, North Dakota, US",321,2
+North Dakota,"Hettinger, North Dakota, US",327,4
+North Dakota,"Kidder, North Dakota, US",266,10
+North Dakota,"LaMoure, North Dakota, US",533,17
+North Dakota,"Logan, North Dakota, US",260,8
+North Dakota,"McHenry, North Dakota, US",642,22
+North Dakota,"McIntosh, North Dakota, US",339,7
+North Dakota,"McKenzie, North Dakota, US",1289,12
+North Dakota,"McLean, North Dakota, US",1266,30
+North Dakota,"Mercer, North Dakota, US",1111,10
+North Dakota,"Morton, North Dakota, US",5214,100
+North Dakota,"Mountrail, North Dakota, US",1314,17
+North Dakota,"Nelson, North Dakota, US",477,15
+North Dakota,"Oliver, North Dakota, US",157,3
+North Dakota,"Out of ND, North Dakota, US",0,0
+North Dakota,"Pembina, North Dakota, US",808,11
+North Dakota,"Pierce, North Dakota, US",542,25
+North Dakota,"Ramsey, North Dakota, US",1703,30
+North Dakota,"Ransom, North Dakota, US",676,17
+North Dakota,"Renville, North Dakota, US",320,14
+North Dakota,"Richland, North Dakota, US",2002,17
+North Dakota,"Rolette, North Dakota, US",2141,28
+North Dakota,"Sargent, North Dakota, US",489,7
+North Dakota,"Sheridan, North Dakota, US",120,2
+North Dakota,"Sioux, North Dakota, US",656,12
+North Dakota,"Slope, North Dakota, US",32,0
+North Dakota,"Stark, North Dakota, US",4733,51
+North Dakota,"Steele, North Dakota, US",181,2
+North Dakota,"Stutsman, North Dakota, US",3487,81
+North Dakota,"Towner, North Dakota, US",313,11
+North Dakota,"Traill, North Dakota, US",1040,18
+North Dakota,"Unassigned, North Dakota, US",0,31
+North Dakota,"Walsh, North Dakota, US",1893,25
+North Dakota,"Ward, North Dakota, US",9642,194
+North Dakota,"Wells, North Dakota, US",446,8
+North Dakota,"Williams, North Dakota, US",4772,38
+Northern Mariana Islands,"Northern Mariana Islands, US",168,2
+Ohio,"Adams, Ohio, US",2344,52
+Ohio,"Allen, Ohio, US",11543,229
+Ohio,"Ashland, Ohio, US",4199,89
+Ohio,"Ashtabula, Ohio, US",6742,168
+Ohio,"Athens, Ohio, US",5167,58
+Ohio,"Auglaize, Ohio, US",4854,83
+Ohio,"Belmont, Ohio, US",5810,163
+Ohio,"Brown, Ohio, US",3906,57
+Ohio,"Butler, Ohio, US",38200,579
+Ohio,"Carroll, Ohio, US",1907,47
+Ohio,"Champaign, Ohio, US",3288,58
+Ohio,"Clark, Ohio, US",13903,297
+Ohio,"Clermont, Ohio, US",19669,235
+Ohio,"Clinton, Ohio, US",3693,61
+Ohio,"Columbiana, Ohio, US",8717,229
+Ohio,"Coshocton, Ohio, US",2630,58
+Ohio,"Crawford, Ohio, US",3946,106
+Ohio,"Cuyahoga, Ohio, US",110740,2100
+Ohio,"Darke, Ohio, US",5328,122
+Ohio,"Defiance, Ohio, US",4146,97
+Ohio,"Delaware, Ohio, US",18416,131
+Ohio,"Erie, Ohio, US",7807,154
+Ohio,"Fairfield, Ohio, US",16051,199
+Ohio,"Fayette, Ohio, US",2801,48
+Ohio,"Franklin, Ohio, US",124919,1385
+Ohio,"Fulton, Ohio, US",4181,69
+Ohio,"Gallia, Ohio, US",2348,48
+Ohio,"Geauga, Ohio, US",6642,148
+Ohio,"Greene, Ohio, US",14962,243
+Ohio,"Guernsey, Ohio, US",3137,52
+Ohio,"Hamilton, Ohio, US",79544,1190
+Ohio,"Hancock, Ohio, US",6871,126
+Ohio,"Hardin, Ohio, US",2693,64
+Ohio,"Harrison, Ohio, US",1068,36
+Ohio,"Henry, Ohio, US",2677,66
+Ohio,"Highland, Ohio, US",3521,61
+Ohio,"Hocking, Ohio, US",2142,61
+Ohio,"Holmes, Ohio, US",2583,101
+Ohio,"Huron, Ohio, US",5403,118
+Ohio,"Jackson, Ohio, US",3115,51
+Ohio,"Jefferson, Ohio, US",5461,150
+Ohio,"Knox, Ohio, US",4459,110
+Ohio,"Lake, Ohio, US",20473,368
+Ohio,"Lawrence, Ohio, US",5532,102
+Ohio,"Licking, Ohio, US",16352,209
+Ohio,"Logan, Ohio, US",3800,76
+Ohio,"Lorain, Ohio, US",24757,479
+Ohio,"Lucas, Ohio, US",41645,781
+Ohio,"Madison, Ohio, US",4339,61
+Ohio,"Mahoning, Ohio, US",21353,585
+Ohio,"Marion, Ohio, US",8482,135
+Ohio,"Medina, Ohio, US",15170,261
+Ohio,"Meigs, Ohio, US",1440,39
+Ohio,"Mercer, Ohio, US",4783,85
+Ohio,"Miami, Ohio, US",10638,215
+Ohio,"Monroe, Ohio, US",1303,41
+Ohio,"Montgomery, Ohio, US",51075,1010
+Ohio,"Morgan, Ohio, US",1081,23
+Ohio,"Morrow, Ohio, US",2826,39
+Ohio,"Muskingum, Ohio, US",8777,131
+Ohio,"Noble, Ohio, US",1334,37
+Ohio,"Ottawa, Ohio, US",3651,78
+Ohio,"Out of OH, Ohio, US",0,0
+Ohio,"Paulding, Ohio, US",1707,39
+Ohio,"Perry, Ohio, US",2941,50
+Ohio,"Pickaway, Ohio, US",8517,121
+Ohio,"Pike, Ohio, US",2370,32
+Ohio,"Portage, Ohio, US",12729,202
+Ohio,"Preble, Ohio, US",3772,98
+Ohio,"Putnam, Ohio, US",4256,100
+Ohio,"Richland, Ohio, US",11255,198
+Ohio,"Ross, Ohio, US",6811,152
+Ohio,"Sandusky, Ohio, US",5302,120
+Ohio,"Scioto, Ohio, US",6373,101
+Ohio,"Seneca, Ohio, US",5242,121
+Ohio,"Shelby, Ohio, US",4659,93
+Ohio,"Stark, Ohio, US",32043,907
+Ohio,"Summit, Ohio, US",46703,932
+Ohio,"Trumbull, Ohio, US",15936,463
+Ohio,"Tuscarawas, Ohio, US",8446,241
+Ohio,"Unassigned, Ohio, US",0,2
+Ohio,"Union, Ohio, US",5686,47
+Ohio,"Van Wert, Ohio, US",2420,63
+Ohio,"Vinton, Ohio, US",820,15
+Ohio,"Warren, Ohio, US",24175,298
+Ohio,"Washington, Ohio, US",5131,108
+Ohio,"Wayne, Ohio, US",8719,210
+Ohio,"Williams, Ohio, US",3358,75
+Ohio,"Wood, Ohio, US",12985,188
+Ohio,"Wyandot, Ohio, US",2304,54
+Oklahoma,"Adair, Oklahoma, US",3170,41
+Oklahoma,"Alfalfa, Oklahoma, US",1156,7
+Oklahoma,"Atoka, Oklahoma, US",1868,25
+Oklahoma,"Beaver, Oklahoma, US",474,6
+Oklahoma,"Beckham, Oklahoma, US",2892,54
+Oklahoma,"Blaine, Oklahoma, US",1040,18
+Oklahoma,"Bryan, Oklahoma, US",6086,71
+Oklahoma,"Caddo, Oklahoma, US",3963,87
+Oklahoma,"Canadian, Oklahoma, US",17046,168
+Oklahoma,"Carter, Oklahoma, US",6091,108
+Oklahoma,"Cherokee, Oklahoma, US",5609,74
+Oklahoma,"Choctaw, Oklahoma, US",1611,21
+Oklahoma,"Cimarron, Oklahoma, US",214,1
+Oklahoma,"Cleveland, Oklahoma, US",30818,401
+Oklahoma,"Coal, Oklahoma, US",696,15
+Oklahoma,"Comanche, Oklahoma, US",13703,183
+Oklahoma,"Cotton, Oklahoma, US",679,16
+Oklahoma,"Craig, Oklahoma, US",1966,18
+Oklahoma,"Creek, Oklahoma, US",6891,154
+Oklahoma,"Custer, Oklahoma, US",4066,99
+Oklahoma,"Delaware, Oklahoma, US",4594,90
+Oklahoma,"Dewey, Oklahoma, US",548,14
+Oklahoma,"Ellis, Oklahoma, US",354,5
+Oklahoma,"Garfield, Oklahoma, US",7782,128
+Oklahoma,"Garvin, Oklahoma, US",3602,77
+Oklahoma,"Grady, Oklahoma, US",5919,121
+Oklahoma,"Grant, Oklahoma, US",549,7
+Oklahoma,"Greer, Oklahoma, US",581,21
+Oklahoma,"Harmon, Oklahoma, US",324,4
+Oklahoma,"Harper, Oklahoma, US",420,6
+Oklahoma,"Haskell, Oklahoma, US",1250,16
+Oklahoma,"Hughes, Oklahoma, US",1232,29
+Oklahoma,"Jackson, Oklahoma, US",3108,56
+Oklahoma,"Jefferson, Oklahoma, US",700,13
+Oklahoma,"Johnston, Oklahoma, US",1375,35
+Oklahoma,"Kay, Oklahoma, US",5305,126
+Oklahoma,"Kingfisher, Oklahoma, US",2050,38
+Oklahoma,"Kiowa, Oklahoma, US",810,24
+Oklahoma,"Latimer, Oklahoma, US",835,13
+Oklahoma,"Le Flore, Oklahoma, US",5557,64
+Oklahoma,"Lincoln, Oklahoma, US",3230,70
+Oklahoma,"Logan, Oklahoma, US",4216,56
+Oklahoma,"Love, Oklahoma, US",1492,20
+Oklahoma,"Major, Oklahoma, US",954,21
+Oklahoma,"Marshall, Oklahoma, US",2044,23
+Oklahoma,"Mayes, Oklahoma, US",4175,68
+Oklahoma,"McClain, Oklahoma, US",5273,69
+Oklahoma,"McCurtain, Oklahoma, US",3928,88
+Oklahoma,"McIntosh, Oklahoma, US",1997,58
+Oklahoma,"Murray, Oklahoma, US",2014,38
+Oklahoma,"Muskogee, Oklahoma, US",9306,164
+Oklahoma,"Noble, Oklahoma, US",1377,19
+Oklahoma,"Nowata, Oklahoma, US",1144,18
+Oklahoma,"Okfuskee, Oklahoma, US",1781,30
+Oklahoma,"Oklahoma, Oklahoma, US",86030,1194
+Oklahoma,"Okmulgee, Oklahoma, US",3724,77
+Oklahoma,"Osage, Oklahoma, US",4681,73
+Oklahoma,"Ottawa, Oklahoma, US",3881,64
+Oklahoma,"Out of OK, Oklahoma, US",0,0
+Oklahoma,"Pawnee, Oklahoma, US",1777,48
+Oklahoma,"Payne, Oklahoma, US",8653,71
+Oklahoma,"Pittsburg, Oklahoma, US",4621,68
+Oklahoma,"Pontotoc, Oklahoma, US",5105,72
+Oklahoma,"Pottawatomie, Oklahoma, US",8319,125
+Oklahoma,"Pushmataha, Oklahoma, US",1012,20
+Oklahoma,"Roger Mills, Oklahoma, US",391,12
+Oklahoma,"Rogers, Oklahoma, US",10426,174
+Oklahoma,"Seminole, Oklahoma, US",2861,69
+Oklahoma,"Sequoyah, Oklahoma, US",4098,50
+Oklahoma,"Stephens, Oklahoma, US",4828,101
+Oklahoma,"Texas, Oklahoma, US",3506,32
+Oklahoma,"Tillman, Oklahoma, US",803,17
+Oklahoma,"Tulsa, Oklahoma, US",74049,1033
+Oklahoma,"Unassigned, Oklahoma, US",1026,0
+Oklahoma,"Wagoner, Oklahoma, US",8027,113
+Oklahoma,"Washington, Oklahoma, US",5183,108
+Oklahoma,"Washita, Oklahoma, US",1079,21
+Oklahoma,"Woods, Oklahoma, US",1204,17
+Oklahoma,"Woodward, Oklahoma, US",3156,33
+Oregon,"Baker, Oregon, US",919,14
+Oregon,"Benton, Oregon, US",2934,19
+Oregon,"Clackamas, Oregon, US",16589,208
+Oregon,"Clatsop, Oregon, US",956,8
+Oregon,"Columbia, Oregon, US",1662,26
+Oregon,"Coos, Oregon, US",2032,32
+Oregon,"Crook, Oregon, US",1002,20
+Oregon,"Curry, Oregon, US",634,9
+Oregon,"Deschutes, Oregon, US",8182,73
+Oregon,"Douglas, Oregon, US",3164,70
+Oregon,"Gilliam, Oregon, US",57,1
+Oregon,"Grant, Oregon, US",493,4
+Oregon,"Harney, Oregon, US",329,8
+Oregon,"Hood River, Oregon, US",1166,30
+Oregon,"Jackson, Oregon, US",10522,131
+Oregon,"Jefferson, Oregon, US",2139,32
+Oregon,"Josephine, Oregon, US",3244,67
+Oregon,"Klamath, Oregon, US",4097,59
+Oregon,"Lake, Oregon, US",437,7
+Oregon,"Lane, Oregon, US",12462,144
+Oregon,"Lincoln, Oregon, US",1358,20
+Oregon,"Linn, Oregon, US",4580,66
+Oregon,"Malheur, Oregon, US",3464,61
+Oregon,"Marion, Oregon, US",21339,302
+Oregon,"Morrow, Oregon, US",1093,15
+Oregon,"Multnomah, Oregon, US",37049,575
+Oregon,"Out of OR, Oregon, US",0,0
+Oregon,"Polk, Oregon, US",3612,52
+Oregon,"Sherman, Oregon, US",57,1
+Oregon,"Tillamook, Oregon, US",624,3
+Oregon,"Umatilla, Oregon, US",8089,84
+Oregon,"Unassigned, Oregon, US",0,0
+Oregon,"Union, Oregon, US",1436,23
+Oregon,"Wallowa, Oregon, US",175,5
+Oregon,"Wasco, Oregon, US",1359,28
+Oregon,"Washington, Oregon, US",24755,229
+Oregon,"Wheeler, Oregon, US",26,1
+Oregon,"Yamhill, Oregon, US",4308,75
+Pennsylvania,"Adams, Pennsylvania, US",9168,171
+Pennsylvania,"Allegheny, Pennsylvania, US",97760,1901
+Pennsylvania,"Armstrong, Pennsylvania, US",5750,131
+Pennsylvania,"Beaver, Pennsylvania, US",14784,376
+Pennsylvania,"Bedford, Pennsylvania, US",4364,134
+Pennsylvania,"Berks, Pennsylvania, US",45835,997
+Pennsylvania,"Blair, Pennsylvania, US",12636,324
+Pennsylvania,"Bradford, Pennsylvania, US",5672,88
+Pennsylvania,"Bucks, Pennsylvania, US",58699,1252
+Pennsylvania,"Butler, Pennsylvania, US",16840,406
+Pennsylvania,"Cambria, Pennsylvania, US",13822,418
+Pennsylvania,"Cameron, Pennsylvania, US",290,8
+Pennsylvania,"Carbon, Pennsylvania, US",6099,167
+Pennsylvania,"Centre, Pennsylvania, US",16401,220
+Pennsylvania,"Chester, Pennsylvania, US",35402,769
+Pennsylvania,"Clarion, Pennsylvania, US",3068,91
+Pennsylvania,"Clearfield, Pennsylvania, US",8209,139
+Pennsylvania,"Clinton, Pennsylvania, US",3554,62
+Pennsylvania,"Columbia, Pennsylvania, US",5514,133
+Pennsylvania,"Crawford, Pennsylvania, US",7071,147
+Pennsylvania,"Cumberland, Pennsylvania, US",19714,512
+Pennsylvania,"Dauphin, Pennsylvania, US",24870,540
+Pennsylvania,"Delaware, Pennsylvania, US",50680,1336
+Pennsylvania,"Elk, Pennsylvania, US",2810,38
+Pennsylvania,"Erie, Pennsylvania, US",20191,404
+Pennsylvania,"Fayette, Pennsylvania, US",12518,306
+Pennsylvania,"Forest, Pennsylvania, US",1411,21
+Pennsylvania,"Franklin, Pennsylvania, US",14714,360
+Pennsylvania,"Fulton, Pennsylvania, US",1287,15
+Pennsylvania,"Greene, Pennsylvania, US",3155,39
+Pennsylvania,"Huntingdon, Pennsylvania, US",4918,128
+Pennsylvania,"Indiana, Pennsylvania, US",5953,171
+Pennsylvania,"Jefferson, Pennsylvania, US",3208,95
+Pennsylvania,"Juniata, Pennsylvania, US",2072,82
+Pennsylvania,"Lackawanna, Pennsylvania, US",17774,458
+Pennsylvania,"Lancaster, Pennsylvania, US",53445,1112
+Pennsylvania,"Lawrence, Pennsylvania, US",7279,205
+Pennsylvania,"Lebanon, Pennsylvania, US",15456,281
+Pennsylvania,"Lehigh, Pennsylvania, US",38341,837
+Pennsylvania,"Luzerne, Pennsylvania, US",30485,794
+Pennsylvania,"Lycoming, Pennsylvania, US",11379,276
+Pennsylvania,"McKean,Pennsylvania,US",3507,68
+Pennsylvania,"Mercer, Pennsylvania, US",9176,254
+Pennsylvania,"Mifflin, Pennsylvania, US",5174,176
+Pennsylvania,"Monroe, Pennsylvania, US",14009,300
+Pennsylvania,"Montgomery, Pennsylvania, US",68153,1663
+Pennsylvania,"Montour, Pennsylvania, US",1964,63
+Pennsylvania,"Northampton, Pennsylvania, US",34640,694
+Pennsylvania,"Northumberland, Pennsylvania, US",9256,347
+Pennsylvania,"Out of PA, Pennsylvania, US",0,0
+Pennsylvania,"Perry, Pennsylvania, US",3657,99
+Pennsylvania,"Philadelphia, Pennsylvania, US",147125,3477
+Pennsylvania,"Pike, Pennsylvania, US",3775,54
+Pennsylvania,"Potter, Pennsylvania, US",1079,23
+Pennsylvania,"Schuylkill, Pennsylvania, US",14156,393
+Pennsylvania,"Snyder, Pennsylvania, US",3527,83
+Pennsylvania,"Somerset, Pennsylvania, US",7604,201
+Pennsylvania,"Sullivan, Pennsylvania, US",409,20
+Pennsylvania,"Susquehanna, Pennsylvania, US",2469,60
+Pennsylvania,"Tioga, Pennsylvania, US",2871,104
+Pennsylvania,"Unassigned, Pennsylvania, US",0,0
+Pennsylvania,"Union, Pennsylvania, US",5943,86
+Pennsylvania,"Venango, Pennsylvania, US",3781,93
+Pennsylvania,"Warren, Pennsylvania, US",2504,101
+Pennsylvania,"Washington, Pennsylvania, US",16999,293
+Pennsylvania,"Wayne, Pennsylvania, US",3898,77
+Pennsylvania,"Westmoreland, Pennsylvania, US",32775,746
+Pennsylvania,"Wyoming, Pennsylvania, US",1838,47
+Pennsylvania,"York, Pennsylvania, US",44398,783
+Puerto Rico,"Adjuntas, Puerto Rico, US",460,0
+Puerto Rico,"Aguada, Puerto Rico, US",1276,0
+Puerto Rico,"Aguadilla, Puerto Rico, US",1447,0
+Puerto Rico,"Aguas Buenas, Puerto Rico, US",1139,0
+Puerto Rico,"Aibonito, Puerto Rico, US",640,0
+Puerto Rico,"Anasco, Puerto Rico, US",769,0
+Puerto Rico,"Arecibo, Puerto Rico, US",2847,0
+Puerto Rico,"Arroyo, Puerto Rico, US",282,0
+Puerto Rico,"Barceloneta, Puerto Rico, US",727,0
+Puerto Rico,"Barranquitas, Puerto Rico, US",1173,0
+Puerto Rico,"Bayamon, Puerto Rico, US",9961,0
+Puerto Rico,"Cabo Rojo, Puerto Rico, US",876,0
+Puerto Rico,"Caguas, Puerto Rico, US",6026,0
+Puerto Rico,"Camuy, Puerto Rico, US",1155,0
+Puerto Rico,"Canovanas, Puerto Rico, US",1840,0
+Puerto Rico,"Carolina, Puerto Rico, US",8299,0
+Puerto Rico,"Catano, Puerto Rico, US",1167,0
+Puerto Rico,"Cayey, Puerto Rico, US",1223,0
+Puerto Rico,"Ceiba, Puerto Rico, US",367,0
+Puerto Rico,"Ciales, Puerto Rico, US",736,0
+Puerto Rico,"Cidra, Puerto Rico, US",1240,0
+Puerto Rico,"Coamo, Puerto Rico, US",844,0
+Puerto Rico,"Comerio, Puerto Rico, US",701,0
+Puerto Rico,"Corozal, Puerto Rico, US",1493,0
+Puerto Rico,"Culebra, Puerto Rico, US",37,0
+Puerto Rico,"Dorado, Puerto Rico, US",1933,0
+Puerto Rico,"Fajardo, Puerto Rico, US",1159,0
+Puerto Rico,"Florida, Puerto Rico, US",508,0
+Puerto Rico,"Guanica, Puerto Rico, US",197,0
+Puerto Rico,"Guayama, Puerto Rico, US",800,0
+Puerto Rico,"Guayanilla, Puerto Rico, US",338,0
+Puerto Rico,"Guaynabo, Puerto Rico, US",4128,0
+Puerto Rico,"Gurabo, Puerto Rico, US",2051,0
+Puerto Rico,"Hatillo, Puerto Rico, US",1088,0
+Puerto Rico,"Hormigueros, Puerto Rico, US",379,0
+Puerto Rico,"Humacao, Puerto Rico, US",1955,0
+Puerto Rico,"Isabela, Puerto Rico, US",1272,0
+Puerto Rico,"Jayuya, Puerto Rico, US",350,0
+Puerto Rico,"Juana Diaz, Puerto Rico, US",1070,0
+Puerto Rico,"Juncos, Puerto Rico, US",2187,0
+Puerto Rico,"Lajas, Puerto Rico, US",397,0
+Puerto Rico,"Lares, Puerto Rico, US",771,0
+Puerto Rico,"Las Marias, Puerto Rico, US",212,0
+Puerto Rico,"Las Piedras, Puerto Rico, US",1580,0
+Puerto Rico,"Loiza, Puerto Rico, US",1206,0
+Puerto Rico,"Luquillo, Puerto Rico, US",687,0
+Puerto Rico,"Manati, Puerto Rico, US",1341,0
+Puerto Rico,"Maricao, Puerto Rico, US",97,0
+Puerto Rico,"Maunabo, Puerto Rico, US",325,0
+Puerto Rico,"Mayaguez, Puerto Rico, US",1801,0
+Puerto Rico,"Moca, Puerto Rico, US",1348,0
+Puerto Rico,"Morovis, Puerto Rico, US",1381,0
+Puerto Rico,"Naguabo, Puerto Rico, US",989,0
+Puerto Rico,"Naranjito, Puerto Rico, US",1528,0
+Puerto Rico,"Orocovis, Puerto Rico, US",857,0
+Puerto Rico,"Out of PR, Puerto Rico, US",267,0
+Puerto Rico,"Patillas, Puerto Rico, US",348,0
+Puerto Rico,"Penuelas, Puerto Rico, US",520,0
+Puerto Rico,"Ponce, Puerto Rico, US",3170,0
+Puerto Rico,"Quebradillas, Puerto Rico, US",845,0
+Puerto Rico,"Rincon, Puerto Rico, US",506,0
+Puerto Rico,"Rio Grande, Puerto Rico, US",1983,0
+Puerto Rico,"Sabana Grande, Puerto Rico, US",356,0
+Puerto Rico,"Salinas, Puerto Rico, US",717,0
+Puerto Rico,"San German, Puerto Rico, US",572,0
+Puerto Rico,"San Juan, Puerto Rico, US",17560,0
+Puerto Rico,"San Lorenzo, Puerto Rico, US",1675,0
+Puerto Rico,"San Sebastian, Puerto Rico, US",1247,0
+Puerto Rico,"Santa Isabel, Puerto Rico, US",437,0
+Puerto Rico,"Toa Alta, Puerto Rico, US",3767,0
+Puerto Rico,"Toa Baja, Puerto Rico, US",3706,0
+Puerto Rico,"Trujillo Alto, Puerto Rico, US",2868,0
+Puerto Rico,"Unassigned, Puerto Rico, US",3870,2323
+Puerto Rico,"Utuado, Puerto Rico, US",852,0
+Puerto Rico,"Vega Alta, Puerto Rico, US",1645,0
+Puerto Rico,"Vega Baja, Puerto Rico, US",2793,0
+Puerto Rico,"Vieques, Puerto Rico, US",122,0
+Puerto Rico,"Villalba, Puerto Rico, US",737,0
+Puerto Rico,"Yabucoa, Puerto Rico, US",1055,0
+Puerto Rico,"Yauco, Puerto Rico, US",769,0
+Rhode Island,"Bristol, Rhode Island, US",5000,141
+Rhode Island,"Kent, Rhode Island, US",18092,359
+Rhode Island,"Newport, Rhode Island, US",6603,40
+Rhode Island,"Out of RI, Rhode Island, US",0,0
+Rhode Island,"Providence, Rhode Island, US",95637,1946
+Rhode Island,"Unassigned, Rhode Island, US",13086,25
+Rhode Island,"Washington, Rhode Island, US",9768,167
+South Carolina,"Abbeville, South Carolina, US",2560,41
+South Carolina,"Aiken, South Carolina, US",17152,221
+South Carolina,"Allendale, South Carolina, US",917,15
+South Carolina,"Anderson, South Carolina, US",22669,517
+South Carolina,"Bamberg, South Carolina, US",1556,51
+South Carolina,"Barnwell, South Carolina, US",2550,57
+South Carolina,"Beaufort, South Carolina, US",16702,204
+South Carolina,"Berkeley, South Carolina, US",17397,193
+South Carolina,"Calhoun, South Carolina, US",1307,36
+South Carolina,"Charleston, South Carolina, US",42841,501
+South Carolina,"Cherokee, South Carolina, US",6004,152
+South Carolina,"Chester, South Carolina, US",4138,75
+South Carolina,"Chesterfield, South Carolina, US",4765,103
+South Carolina,"Clarendon, South Carolina, US",3413,112
+South Carolina,"Colleton, South Carolina, US",3593,126
+South Carolina,"Darlington, South Carolina, US",8390,172
+South Carolina,"Dillon, South Carolina, US",4371,84
+South Carolina,"Dorchester, South Carolina, US",17653,217
+South Carolina,"Edgefield, South Carolina, US",3101,42
+South Carolina,"Fairfield, South Carolina, US",2376,79
+South Carolina,"Florence, South Carolina, US",17614,414
+South Carolina,"Georgetown, South Carolina, US",6668,139
+South Carolina,"Greenville, South Carolina, US",73669,996
+South Carolina,"Greenwood, South Carolina, US",8066,172
+South Carolina,"Hampton, South Carolina, US",1904,52
+South Carolina,"Horry, South Carolina, US",38676,571
+South Carolina,"Jasper, South Carolina, US",2317,45
+South Carolina,"Kershaw, South Carolina, US",7428,140
+South Carolina,"Lancaster, South Carolina, US",10626,167
+South Carolina,"Laurens, South Carolina, US",7312,170
+South Carolina,"Lee, South Carolina, US",1893,59
+South Carolina,"Lexington, South Carolina, US",33060,480
+South Carolina,"Marion, South Carolina, US",3519,107
+South Carolina,"Marlboro, South Carolina, US",3308,54
+South Carolina,"McCormick, South Carolina, US",1022,28
+South Carolina,"Newberry, South Carolina, US",4958,101
+South Carolina,"Oconee, South Carolina, US",9513,133
+South Carolina,"Orangeburg, South Carolina, US",9672,244
+South Carolina,"Out of SC, South Carolina, US",0,0
+South Carolina,"Pickens, South Carolina, US",18492,295
+South Carolina,"Richland, South Carolina, US",46113,546
+South Carolina,"Saluda, South Carolina, US",1784,50
+South Carolina,"Spartanburg, South Carolina, US",40888,802
+South Carolina,"Sumter, South Carolina, US",10388,202
+South Carolina,"Unassigned, South Carolina, US",0,0
+South Carolina,"Union, South Carolina, US",3110,84
+South Carolina,"Williamsburg, South Carolina, US",4044,98
+South Carolina,"York, South Carolina, US",30774,377
+South Dakota,"Aurora, South Dakota, US",471,15
+South Dakota,"Beadle, South Dakota, US",2933,40
+South Dakota,"Bennett, South Dakota, US",390,9
+South Dakota,"Bon Homme, South Dakota, US",1543,27
+South Dakota,"Brookings, South Dakota, US",4184,37
+South Dakota,"Brown, South Dakota, US",5509,91
+South Dakota,"Brule, South Dakota, US",712,9
+South Dakota,"Buffalo, South Dakota, US",425,13
+South Dakota,"Butte, South Dakota, US",1043,20
+South Dakota,"Campbell, South Dakota, US",130,4
+South Dakota,"Charles Mix, South Dakota, US",1376,22
+South Dakota,"Clark, South Dakota, US",454,5
+South Dakota,"Clay, South Dakota, US",1917,15
+South Dakota,"Codington, South Dakota, US",4591,81
+South Dakota,"Corson, South Dakota, US",478,12
+South Dakota,"Custer, South Dakota, US",830,12
+South Dakota,"Davison, South Dakota, US",3219,66
+South Dakota,"Day, South Dakota, US",703,29
+South Dakota,"Deuel, South Dakota, US",523,9
+South Dakota,"Dewey, South Dakota, US",1462,28
+South Dakota,"Douglas, South Dakota, US",454,9
+South Dakota,"Edmunds, South Dakota, US",508,13
+South Dakota,"Fall River, South Dakota, US",591,15
+South Dakota,"Faulk, South Dakota, US",369,13
+South Dakota,"Grant, South Dakota, US",1037,42
+South Dakota,"Gregory, South Dakota, US",579,30
+South Dakota,"Haakon, South Dakota, US",262,10
+South Dakota,"Hamlin, South Dakota, US",794,39
+South Dakota,"Hand, South Dakota, US",362,6
+South Dakota,"Hanson, South Dakota, US",386,4
+South Dakota,"Harding, South Dakota, US",96,1
+South Dakota,"Hughes, South Dakota, US",2476,39
+South Dakota,"Hutchinson, South Dakota, US",914,27
+South Dakota,"Hyde, South Dakota, US",141,1
+South Dakota,"Jackson, South Dakota, US",289,14
+South Dakota,"Jerauld, South Dakota, US",273,16
+South Dakota,"Jones, South Dakota, US",93,0
+South Dakota,"Kingsbury, South Dakota, US",814,16
+South Dakota,"Lake, South Dakota, US",1362,19
+South Dakota,"Lawrence, South Dakota, US",2959,47
+South Dakota,"Lincoln, South Dakota, US",8621,77
+South Dakota,"Lyman, South Dakota, US",647,11
+South Dakota,"Marshall, South Dakota, US",370,6
+South Dakota,"McCook, South Dakota, US",804,25
+South Dakota,"McPherson, South Dakota, US",244,4
+South Dakota,"Meade, South Dakota, US",2745,30
+South Dakota,"Mellette, South Dakota, US",260,2
+South Dakota,"Miner, South Dakota, US",298,9
+South Dakota,"Minnehaha, South Dakota, US",31343,352
+South Dakota,"Moody, South Dakota, US",649,17
+South Dakota,"Oglala Lakota, South Dakota, US",2107,49
+South Dakota,"Out of SD, South Dakota, US",0,0
+South Dakota,"Pennington, South Dakota, US",13606,191
+South Dakota,"Perkins, South Dakota, US",355,14
+South Dakota,"Potter, South Dakota, US",390,4
+South Dakota,"Roberts, South Dakota, US",1357,39
+South Dakota,"Sanborn, South Dakota, US",342,3
+South Dakota,"Spink, South Dakota, US",840,26
+South Dakota,"Stanley, South Dakota, US",347,2
+South Dakota,"Sully, South Dakota, US",142,3
+South Dakota,"Todd, South Dakota, US",1226,29
+South Dakota,"Tripp, South Dakota, US",755,17
+South Dakota,"Turner, South Dakota, US",1168,56
+South Dakota,"Unassigned, South Dakota, US",0,0
+South Dakota,"Union, South Dakota, US",2213,43
+South Dakota,"Walworth, South Dakota, US",766,16
+South Dakota,"Yankton, South Dakota, US",3069,31
+South Dakota,"Ziebach, South Dakota, US",344,9
+Tennessee,"Anderson, Tennessee, US",8729,172
+Tennessee,"Bedford, Tennessee, US",6495,129
+Tennessee,"Benton, Tennessee, US",1652,40
+Tennessee,"Bledsoe, Tennessee, US",2119,11
+Tennessee,"Blount, Tennessee, US",15388,193
+Tennessee,"Bradley, Tennessee, US",14920,149
+Tennessee,"Campbell, Tennessee, US",4140,63
+Tennessee,"Cannon, Tennessee, US",1911,31
+Tennessee,"Carroll, Tennessee, US",3604,83
+Tennessee,"Carter, Tennessee, US",6580,156
+Tennessee,"Cheatham, Tennessee, US",4527,55
+Tennessee,"Chester, Tennessee, US",2135,51
+Tennessee,"Claiborne, Tennessee, US",3165,73
+Tennessee,"Clay, Tennessee, US",1101,31
+Tennessee,"Cocke, Tennessee, US",4479,98
+Tennessee,"Coffee, Tennessee, US",6888,121
+Tennessee,"Crockett, Tennessee, US",2026,48
+Tennessee,"Cumberland, Tennessee, US",6683,128
+Tennessee,"Davidson, Tennessee, US",88945,931
+Tennessee,"DeKalb,Tennessee,US",2787,54
+Tennessee,"Decatur, Tennessee, US",1579,39
+Tennessee,"Dickson, Tennessee, US",6819,110
+Tennessee,"Dyer, Tennessee, US",5408,105
+Tennessee,"Fayette, Tennessee, US",5017,76
+Tennessee,"Fentress, Tennessee, US",2408,47
+Tennessee,"Franklin, Tennessee, US",5133,90
+Tennessee,"Gibson, Tennessee, US",6503,145
+Tennessee,"Giles, Tennessee, US",3980,100
+Tennessee,"Grainger, Tennessee, US",2616,50
+Tennessee,"Greene, Tennessee, US",7827,155
+Tennessee,"Grundy, Tennessee, US",1788,34
+Tennessee,"Hamblen, Tennessee, US",8585,172
+Tennessee,"Hamilton, Tennessee, US",43960,491
+Tennessee,"Hancock, Tennessee, US",582,12
+Tennessee,"Hardeman, Tennessee, US",3505,64
+Tennessee,"Hardin, Tennessee, US",3564,67
+Tennessee,"Hawkins, Tennessee, US",5973,107
+Tennessee,"Haywood, Tennessee, US",2703,62
+Tennessee,"Henderson, Tennessee, US",3777,76
+Tennessee,"Henry, Tennessee, US",3165,76
+Tennessee,"Hickman, Tennessee, US",2831,46
+Tennessee,"Houston, Tennessee, US",1089,33
+Tennessee,"Humphreys, Tennessee, US",1783,25
+Tennessee,"Jackson, Tennessee, US",1315,35
+Tennessee,"Jefferson, Tennessee, US",6155,124
+Tennessee,"Johnson, Tennessee, US",2382,38
+Tennessee,"Knox, Tennessee, US",50369,634
+Tennessee,"Lake, Tennessee, US",1701,26
+Tennessee,"Lauderdale, Tennessee, US",3174,44
+Tennessee,"Lawrence, Tennessee, US",5877,86
+Tennessee,"Lewis, Tennessee, US",1579,26
+Tennessee,"Lincoln, Tennessee, US",4343,63
+Tennessee,"Loudon, Tennessee, US",6087,69
+Tennessee,"Macon, Tennessee, US",3610,78
+Tennessee,"Madison, Tennessee, US",11097,241
+Tennessee,"Marion, Tennessee, US",3120,47
+Tennessee,"Marshall, Tennessee, US",4166,58
+Tennessee,"Maury, Tennessee, US",13406,171
+Tennessee,"McMinn, Tennessee, US",6466,98
+Tennessee,"McNairy, Tennessee, US",2802,54
+Tennessee,"Meigs, Tennessee, US",1379,25
+Tennessee,"Monroe, Tennessee, US",5808,95
+Tennessee,"Montgomery, Tennessee, US",20074,225
+Tennessee,"Moore, Tennessee, US",1008,17
+Tennessee,"Morgan, Tennessee, US",2484,39
+Tennessee,"Obion, Tennessee, US",4527,96
+Tennessee,"Out of TN, Tennessee, US",18248,97
+Tennessee,"Overton, Tennessee, US",2999,61
+Tennessee,"Perry, Tennessee, US",1061,28
+Tennessee,"Pickett, Tennessee, US",759,24
+Tennessee,"Polk, Tennessee, US",2053,24
+Tennessee,"Putnam, Tennessee, US",11321,174
+Tennessee,"Rhea, Tennessee, US",4335,75
+Tennessee,"Roane, Tennessee, US",6249,104
+Tennessee,"Robertson, Tennessee, US",9724,131
+Tennessee,"Rutherford, Tennessee, US",42810,430
+Tennessee,"Scott, Tennessee, US",3103,45
+Tennessee,"Sequatchie, Tennessee, US",1690,29
+Tennessee,"Sevier, Tennessee, US",13304,175
+Tennessee,"Shelby, Tennessee, US",94752,1610
+Tennessee,"Smith, Tennessee, US",2766,39
+Tennessee,"Stewart, Tennessee, US",1317,28
+Tennessee,"Sullivan, Tennessee, US",16604,290
+Tennessee,"Sumner, Tennessee, US",23831,347
+Tennessee,"Tipton, Tennessee, US",7297,101
+Tennessee,"Trousdale, Tennessee, US",2498,22
+Tennessee,"Unassigned, Tennessee, US",16971,134
+Tennessee,"Unicoi, Tennessee, US",2013,49
+Tennessee,"Union, Tennessee, US",1895,34
+Tennessee,"Van Buren, Tennessee, US",844,23
+Tennessee,"Warren, Tennessee, US",5539,81
+Tennessee,"Washington, Tennessee, US",14471,244
+Tennessee,"Wayne, Tennessee, US",2948,35
+Tennessee,"Weakley, Tennessee, US",4076,64
+Tennessee,"White, Tennessee, US",3609,69
+Tennessee,"Williamson, Tennessee, US",27845,217
+Tennessee,"Wilson, Tennessee, US",18700,233
+Texas,"Anderson, Texas, US",6108,120
+Texas,"Andrews, Texas, US",1816,47
+Texas,"Angelina, Texas, US",8545,279
+Texas,"Aransas, Texas, US",1247,39
+Texas,"Archer, Texas, US",800,12
+Texas,"Armstrong, Texas, US",183,6
+Texas,"Atascosa, Texas, US",5747,150
+Texas,"Austin, Texas, US",2134,34
+Texas,"Bailey, Texas, US",821,19
+Texas,"Bandera, Texas, US",1386,27
+Texas,"Bastrop, Texas, US",9356,91
+Texas,"Baylor, Texas, US",298,12
+Texas,"Bee, Texas, US",3484,72
+Texas,"Bell, Texas, US",22311,416
+Texas,"Bexar, Texas, US",217486,3485
+Texas,"Blanco, Texas, US",732,20
+Texas,"Borden, Texas, US",31,2
+Texas,"Bosque, Texas, US",1665,33
+Texas,"Bowie, Texas, US",6938,212
+Texas,"Brazoria, Texas, US",37266,488
+Texas,"Brazos, Texas, US",26375,249
+Texas,"Brewster, Texas, US",928,16
+Texas,"Briscoe, Texas, US",168,5
+Texas,"Brooks, Texas, US",801,36
+Texas,"Brown, Texas, US",4235,118
+Texas,"Burleson, Texas, US",2394,46
+Texas,"Burnet, Texas, US",4728,64
+Texas,"Caldwell, Texas, US",5573,96
+Texas,"Calhoun, Texas, US",2283,23
+Texas,"Callahan, Texas, US",1187,39
+Texas,"Cameron, Texas, US",40361,1629
+Texas,"Camp, Texas, US",1242,42
+Texas,"Carson, Texas, US",520,14
+Texas,"Cass, Texas, US",1912,81
+Texas,"Castro, Texas, US",983,32
+Texas,"Chambers, Texas, US",4933,26
+Texas,"Cherokee, Texas, US",4153,140
+Texas,"Childress, Texas, US",1384,17
+Texas,"Clay, Texas, US",1029,16
+Texas,"Cochran, Texas, US",303,15
+Texas,"Coke, Texas, US",462,12
+Texas,"Coleman, Texas, US",749,32
+Texas,"Collin, Texas, US",90064,820
+Texas,"Collingsworth, Texas, US",323,9
+Texas,"Colorado, Texas, US",1715,30
+Texas,"Comal, Texas, US",10304,295
+Texas,"Comanche, Texas, US",1554,51
+Texas,"Concho, Texas, US",376,8
+Texas,"Cooke, Texas, US",3704,72
+Texas,"Coryell, Texas, US",7226,86
+Texas,"Cottle, Texas, US",190,7
+Texas,"Crane, Texas, US",530,12
+Texas,"Crockett, Texas, US",572,15
+Texas,"Crosby, Texas, US",654,29
+Texas,"Culberson, Texas, US",362,11
+Texas,"Dallam, Texas, US",963,24
+Texas,"Dallas, Texas, US",298959,3987
+Texas,"Dawson, Texas, US",1735,68
+Texas,"DeWitt, Texas, US",1930,59
+Texas,"Deaf Smith, Texas, US",2806,66
+Texas,"Delta, Texas, US",319,11
+Texas,"Denton, Texas, US",74340,748
+Texas,"Dickens, Texas, US",186,10
+Texas,"Dimmit, Texas, US",2166,32
+Texas,"Donley, Texas, US",406,15
+Texas,"Duval, Texas, US",1246,41
+Texas,"Eastland, Texas, US",1344,48
+Texas,"Ector, Texas, US",17147,368
+Texas,"Edwards, Texas, US",248,6
+Texas,"El Paso, Texas, US",134327,2660
+Texas,"Ellis, Texas, US",22677,310
+Texas,"Erath, Texas, US",4177,68
+Texas,"Falls, Texas, US",2084,32
+Texas,"Fannin, Texas, US",3484,108
+Texas,"Fayette, Texas, US",2696,61
+Texas,"Fisher, Texas, US",298,14
+Texas,"Floyd, Texas, US",846,30
+Texas,"Foard, Texas, US",122,10
+Texas,"Fort Bend, Texas, US",66783,662
+Texas,"Franklin, Texas, US",722,26
+Texas,"Freestone, Texas, US",1881,49
+Texas,"Frio, Texas, US",2822,50
+Texas,"Gaines, Texas, US",1434,43
+Texas,"Galveston, Texas, US",39096,411
+Texas,"Garza, Texas, US",488,22
+Texas,"Gillespie, Texas, US",2545,50
+Texas,"Glasscock, Texas, US",104,2
+Texas,"Goliad, Texas, US",445,13
+Texas,"Gonzales, Texas, US",2730,57
+Texas,"Gray, Texas, US",2310,56
+Texas,"Grayson, Texas, US",11264,340
+Texas,"Gregg, Texas, US",11098,352
+Texas,"Grimes, Texas, US",3676,69
+Texas,"Guadalupe, Texas, US",14597,210
+Texas,"Hale, Texas, US",6111,155
+Texas,"Hall, Texas, US",462,14
+Texas,"Hamilton, Texas, US",770,27
+Texas,"Hansford, Texas, US",896,25
+Texas,"Hardeman, Texas, US",374,12
+Texas,"Hardin, Texas, US",5670,111
+Texas,"Harris, Texas, US",392976,6218
+Texas,"Harrison, Texas, US",4815,107
+Texas,"Hartley, Texas, US",632,2
+Texas,"Haskell, Texas, US",445,27
+Texas,"Hays, Texas, US",20360,240
+Texas,"Hemphill, Texas, US",586,2
+Texas,"Henderson, Texas, US",5839,184
+Texas,"Hidalgo, Texas, US",88604,2825
+Texas,"Hill, Texas, US",4483,108
+Texas,"Hockley, Texas, US",2818,102
+Texas,"Hood, Texas, US",6517,129
+Texas,"Hopkins, Texas, US",3082,109
+Texas,"Houston, Texas, US",1629,52
+Texas,"Howard, Texas, US",4634,101
+Texas,"Hudspeth, Texas, US",527,11
+Texas,"Hunt, Texas, US",5929,167
+Texas,"Hutchinson, Texas, US",2011,71
+Texas,"Irion, Texas, US",125,1
+Texas,"Jack, Texas, US",607,16
+Texas,"Jackson, Texas, US",1814,31
+Texas,"Jasper, Texas, US",2466,88
+Texas,"Jeff Davis, Texas, US",190,5
+Texas,"Jefferson, Texas, US",19573,422
+Texas,"Jim Hogg, Texas, US",613,16
+Texas,"Jim Wells, Texas, US",4258,101
+Texas,"Johnson, Texas, US",19714,366
+Texas,"Jones, Texas, US",2641,55
+Texas,"Karnes, Texas, US",2079,37
+Texas,"Kaufman, Texas, US",15930,256
+Texas,"Kendall, Texas, US",3267,72
+Texas,"Kenedy, Texas, US",38,2
+Texas,"Kent, Texas, US",106,2
+Texas,"Kerr, Texas, US",4455,88
+Texas,"Kimble, Texas, US",267,6
+Texas,"King, Texas, US",11,0
+Texas,"Kinney, Texas, US",347,6
+Texas,"Kleberg, Texas, US",2637,93
+Texas,"Knox, Texas, US",258,17
+Texas,"La Salle, Texas, US",1045,28
+Texas,"Lamar, Texas, US",5813,155
+Texas,"Lamb, Texas, US",2282,82
+Texas,"Lampasas, Texas, US",2173,32
+Texas,"Lavaca, Texas, US",2471,76
+Texas,"Lee, Texas, US",2177,39
+Texas,"Leon, Texas, US",1625,43
+Texas,"Liberty, Texas, US",7762,182
+Texas,"Limestone, Texas, US",2768,76
+Texas,"Lipscomb, Texas, US",335,12
+Texas,"Live Oak, Texas, US",1129,22
+Texas,"Llano, Texas, US",1650,51
+Texas,"Loving, Texas, US",2,0
+Texas,"Lubbock, Texas, US",48910,784
+Texas,"Lynn, Texas, US",618,23
+Texas,"Madison, Texas, US",1959,29
+Texas,"Marion, Texas, US",538,33
+Texas,"Martin, Texas, US",631,18
+Texas,"Mason, Texas, US",395,6
+Texas,"Matagorda, Texas, US",3961,109
+Texas,"Maverick, Texas, US",10426,355
+Texas,"McCulloch, Texas, US",574,19
+Texas,"McLennan, Texas, US",26984,470
+Texas,"McMullen, Texas, US",83,5
+Texas,"Medina, Texas, US",4972,103
+Texas,"Menard, Texas, US",208,9
+Texas,"Midland, Texas, US",17331,266
+Texas,"Milam, Texas, US",2522,48
+Texas,"Mills, Texas, US",656,21
+Texas,"Mitchell, Texas, US",603,30
+Texas,"Montague, Texas, US",2083,71
+Texas,"Montgomery, Texas, US",52540,562
+Texas,"Moore, Texas, US",2457,72
+Texas,"Morris, Texas, US",865,33
+Texas,"Motley, Texas, US",115,8
+Texas,"Nacogdoches, Texas, US",4513,168
+Texas,"Navarro, Texas, US",5781,140
+Texas,"Newton, Texas, US",620,35
+Texas,"Nolan, Texas, US",1532,51
+Texas,"Nueces, Texas, US",41855,775
+Texas,"Ochiltree, Texas, US",1141,27
+Texas,"Oldham, Texas, US",268,4
+Texas,"Orange, Texas, US",8416,146
+Texas,"Out of TX, Texas, US",0,0
+Texas,"Palo Pinto, Texas, US",2890,75
+Texas,"Panola, Texas, US",1600,74
+Texas,"Parker, Texas, US",15615,180
+Texas,"Parmer, Texas, US",1268,36
+Texas,"Pecos, Texas, US",1658,34
+Texas,"Polk, Texas, US",3282,112
+Texas,"Potter, Texas, US",17312,446
+Texas,"Presidio, Texas, US",817,24
+Texas,"Rains, Texas, US",797,25
+Texas,"Randall, Texas, US",16678,279
+Texas,"Reagan, Texas, US",380,8
+Texas,"Real, Texas, US",311,12
+Texas,"Red River, Texas, US",691,37
+Texas,"Reeves, Texas, US",1736,43
+Texas,"Refugio, Texas, US",661,21
+Texas,"Roberts, Texas, US",61,1
+Texas,"Robertson, Texas, US",2117,40
+Texas,"Rockwall, Texas, US",11446,153
+Texas,"Runnels, Texas, US",1286,37
+Texas,"Rusk, Texas, US",3946,107
+Texas,"Sabine, Texas, US",519,45
+Texas,"San Augustine, Texas, US",573,32
+Texas,"San Jacinto, Texas, US",1273,36
+Texas,"San Patricio, Texas, US",4346,148
+Texas,"San Saba, Texas, US",784,23
+Texas,"Schleicher, Texas, US",235,6
+Texas,"Scurry, Texas, US",2424,62
+Texas,"Shackelford, Texas, US",271,5
+Texas,"Shelby, Texas, US",1674,67
+Texas,"Sherman, Texas, US",222,12
+Texas,"Smith, Texas, US",20149,468
+Texas,"Somervell, Texas, US",1076,14
+Texas,"Starr, Texas, US",9493,297
+Texas,"Stephens, Texas, US",788,25
+Texas,"Sterling, Texas, US",107,4
+Texas,"Stonewall, Texas, US",156,6
+Texas,"Sutton, Texas, US",469,8
+Texas,"Swisher, Texas, US",826,17
+Texas,"Tarrant, Texas, US",256962,3424
+Texas,"Taylor, Texas, US",15666,406
+Texas,"Terrell, Texas, US",75,2
+Texas,"Terry, Texas, US",1692,56
+Texas,"Throckmorton, Texas, US",73,5
+Texas,"Titus, Texas, US",3696,83
+Texas,"Tom Green, Texas, US",16769,269
+Texas,"Travis, Texas, US",82448,997
+Texas,"Trinity, Texas, US",750,25
+Texas,"Tyler, Texas, US",1314,38
+Texas,"Unassigned, Texas, US",0,0
+Texas,"Upshur, Texas, US",3247,74
+Texas,"Upton, Texas, US",367,10
+Texas,"Uvalde, Texas, US",3570,72
+Texas,"Val Verde, Texas, US",7855,220
+Texas,"Van Zandt, Texas, US",4268,117
+Texas,"Victoria, Texas, US",8613,206
+Texas,"Walker, Texas, US",8789,125
+Texas,"Waller, Texas, US",4109,46
+Texas,"Ward, Texas, US",1186,24
+Texas,"Washington, Texas, US",4030,93
+Texas,"Webb, Texas, US",43738,788
+Texas,"Wharton, Texas, US",4087,115
+Texas,"Wheeler, Texas, US",530,10
+Texas,"Wichita, Texas, US",14971,375
+Texas,"Wilbarger, Texas, US",1906,55
+Texas,"Willacy, Texas, US",2958,88
+Texas,"Williamson, Texas, US",45408,464
+Texas,"Wilson, Texas, US",4468,68
+Texas,"Winkler, Texas, US",767,21
+Texas,"Wise, Texas, US",7300,121
+Texas,"Wood, Texas, US",3420,127
+Texas,"Yoakum, Texas, US",871,26
+Texas,"Young, Texas, US",2163,44
+Texas,"Zapata, Texas, US",1764,36
+Texas,"Zavala, Texas, US",1856,40
+Utah,"Bear River, Utah, US",21491,97
+Utah,"Beaver, Utah, US",0,0
+Utah,"Box Elder, Utah, US",0,0
+Utah,"Cache, Utah, US",0,0
+Utah,"Carbon, Utah, US",0,0
+Utah,"Central Utah, Utah, US",8866,65
+Utah,"Daggett, Utah, US",0,0
+Utah,"Davis, Utah, US",37701,166
+Utah,"Duchesne, Utah, US",0,0
+Utah,"Emery, Utah, US",0,0
+Utah,"Garfield, Utah, US",0,0
+Utah,"Grand, Utah, US",0,0
+Utah,"Iron, Utah, US",0,0
+Utah,"Juab, Utah, US",0,0
+Utah,"Kane, Utah, US",0,0
+Utah,"Millard, Utah, US",0,0
+Utah,"Morgan, Utah, US",0,0
+Utah,"Out of UT, Utah, US",0,0
+Utah,"Piute, Utah, US",0,0
+Utah,"Rich, Utah, US",0,0
+Utah,"Salt Lake, Utah, US",148226,848
+Utah,"San Juan, Utah, US",1889,37
+Utah,"Sanpete, Utah, US",0,0
+Utah,"Sevier, Utah, US",0,0
+Utah,"Southeast Utah, Utah, US",3456,26
+Utah,"Southwest Utah, Utah, US",28696,265
+Utah,"Summit, Utah, US",5504,12
+Utah,"Tooele, Utah, US",7207,41
+Utah,"TriCounty, Utah, US",4009,35
+Utah,"Uintah, Utah, US",0,0
+Utah,"Unassigned, Utah, US",907,0
+Utah,"Utah, Utah, US",95393,381
+Utah,"Wasatch, Utah, US",4616,21
+Utah,"Washington,Utah,US",0,0
+Utah,"Wayne, Utah, US",0,0
+Utah,"Weber,Utah,US",0,0
+Utah,"Weber-Morgan, Utah, US",30051,210
+Vermont,"Addison, Vermont, US",1027,8
+Vermont,"Bennington, Vermont, US",1950,13
+Vermont,"Caledonia, Vermont, US",986,6
+Vermont,"Chittenden, Vermont, US",7340,101
+Vermont,"Essex, Vermont, US",271,2
+Vermont,"Franklin, Vermont, US",1947,39
+Vermont,"Grand Isle, Vermont, US",209,2
+Vermont,"Lamoille, Vermont, US",852,3
+Vermont,"Orange, Vermont, US",756,3
+Vermont,"Orleans, Vermont, US",1188,10
+Vermont,"Out of VT, Vermont, US",0,0
+Vermont,"Rutland, Vermont, US",2116,20
+Vermont,"Unassigned, Vermont, US",12,0
+Vermont,"Washington, Vermont, US",1799,15
+Vermont,"Windham, Vermont, US",1314,14
+Vermont,"Windsor, Vermont, US",1359,12
+Virgin Islands,"Virgin Islands, US",3138,27
+Virginia,"Accomack, Virginia, US",2812,41
+Virginia,"Albemarle, Virginia, US",5708,83
+Virginia,"Alexandria, Virginia, US",11671,133
+Virginia,"Alleghany, Virginia, US",1326,48
+Virginia,"Amelia, Virginia, US",881,31
+Virginia,"Amherst, Virginia, US",2907,35
+Virginia,"Appomattox, Virginia, US",1583,24
+Virginia,"Arlington, Virginia, US",15121,253
+Virginia,"Augusta, Virginia, US",5726,70
+Virginia,"Bath, Virginia, US",270,10
+Virginia,"Bedford, Virginia, US",6275,99
+Virginia,"Bland, Virginia, US",669,10
+Virginia,"Botetourt, Virginia, US",2504,36
+Virginia,"Bristol, Virginia, US",1465,33
+Virginia,"Brunswick, Virginia, US",1298,21
+Virginia,"Buchanan, Virginia, US",1410,38
+Virginia,"Buckingham, Virginia, US",2119,30
+Virginia,"Buena Vista, Virginia, US",897,19
+Virginia,"Campbell, Virginia, US",4407,84
+Virginia,"Caroline, Virginia, US",2555,35
+Virginia,"Carroll, Virginia, US",2603,70
+Virginia,"Charles City, Virginia, US",498,15
+Virginia,"Charlotte, Virginia, US",843,18
+Virginia,"Charlottesville, Virginia, US",4017,55
+Virginia,"Chesapeake, Virginia, US",20674,290
+Virginia,"Chesterfield, Virginia, US",27290,424
+Virginia,"Clarke, Virginia, US",967,19
+Virginia,"Colonial Heights, Virginia, US",1682,61
+Virginia,"Covington, Virginia, US",591,13
+Virginia,"Craig, Virginia, US",309,5
+Virginia,"Culpeper, Virginia, US",4550,61
+Virginia,"Cumberland, Virginia, US",473,9
+Virginia,"Danville, Virginia, US",4348,134
+Virginia,"Dickenson, Virginia, US",921,15
+Virginia,"Dinwiddie, Virginia, US",2099,43
+Virginia,"Emporia, Virginia, US",669,42
+Virginia,"Essex, Virginia, US",753,9
+Virginia,"Fairfax, Virginia, US",75942,1073
+Virginia,"Fairfax City, Virginia, US",550,19
+Virginia,"Falls Church, Virginia, US",423,9
+Virginia,"Fauquier, Virginia, US",4631,64
+Virginia,"Floyd, Virginia, US",845,21
+Virginia,"Fluvanna, Virginia, US",1904,17
+Virginia,"Franklin, Virginia, US",3997,74
+Virginia,"Franklin City, Virginia, US",1132,32
+Virginia,"Frederick, Virginia, US",7847,100
+Virginia,"Fredericksburg, Virginia, US",2093,23
+Virginia,"Galax, Virginia, US",1154,51
+Virginia,"Giles, Virginia, US",1257,21
+Virginia,"Gloucester, Virginia, US",2180,48
+Virginia,"Goochland, Virginia, US",1434,23
+Virginia,"Grayson, Virginia, US",1444,35
+Virginia,"Greene, Virginia, US",1243,17
+Virginia,"Greensville, Virginia, US",1568,25
+Virginia,"Halifax, Virginia, US",2782,77
+Virginia,"Hampton, Virginia, US",10275,174
+Virginia,"Hanover, Virginia, US",8000,154
+Virginia,"Harrisonburg, Virginia, US",6458,95
+Virginia,"Henrico, Virginia, US",25038,605
+Virginia,"Henry, Virginia, US",4498,121
+Virginia,"Highland, Virginia, US",108,1
+Virginia,"Hopewell, Virginia, US",2559,71
+Virginia,"Isle of Wight, Virginia, US",3114,66
+Virginia,"James City, Virginia, US",4556,72
+Virginia,"King George, Virginia, US",1662,19
+Virginia,"King William, Virginia, US",1197,11
+Virginia,"King and Queen, Virginia, US",388,8
+Virginia,"Lancaster, Virginia, US",710,16
+Virginia,"Lee, Virginia, US",2413,46
+Virginia,"Lexington, Virginia, US",1171,32
+Virginia,"Loudoun, Virginia, US",27391,274
+Virginia,"Louisa, Virginia, US",1954,32
+Virginia,"Lunenburg, Virginia, US",761,13
+Virginia,"Lynchburg, Virginia, US",7625,146
+Virginia,"Madison, Virginia, US",608,16
+Virginia,"Manassas,Virginia,US",4301,47
+Virginia,"Manassas Park, Virginia, US",1214,12
+Virginia,"Martinsville, Virginia, US",1583,76
+Virginia,"Mathews, Virginia, US",595,12
+Virginia,"Mecklenburg, Virginia, US",2270,66
+Virginia,"Middlesex, Virginia, US",569,20
+Virginia,"Montgomery, Virginia, US",9292,91
+Virginia,"Nelson, Virginia, US",887,12
+Virginia,"New Kent, Virginia, US",1480,17
+Virginia,"Newport News, Virginia, US",13794,224
+Virginia,"Norfolk, Virginia, US",17401,254
+Virginia,"Northampton, Virginia, US",797,36
+Virginia,"Northumberland, Virginia, US",741,20
+Virginia,"Norton, Virginia, US",281,7
+Virginia,"Nottoway, Virginia, US",1900,48
+Virginia,"Orange, Virginia, US",2165,39
+Virginia,"Out of VA, Virginia, US",0,0
+Virginia,"Page, Virginia, US",2011,57
+Virginia,"Patrick, Virginia, US",1339,43
+Virginia,"Petersburg, Virginia, US",3812,84
+Virginia,"Pittsylvania, Virginia, US",5493,78
+Virginia,"Poquoson, Virginia, US",871,16
+Virginia,"Portsmouth, Virginia, US",8926,188
+Virginia,"Powhatan, Virginia, US",1891,16
+Virginia,"Prince Edward, Virginia, US",2125,34
+Virginia,"Prince George, Virginia, US",3489,27
+Virginia,"Prince William, Virginia, US",44663,482
+Virginia,"Pulaski, Virginia, US",2612,61
+Virginia,"Radford, Virginia, US",2112,18
+Virginia,"Rappahannock, Virginia, US",347,2
+Virginia,"Richmond, Virginia, US",1492,15
+Virginia,"Richmond City, Virginia, US",16823,257
+Virginia,"Roanoke, Virginia, US",8139,138
+Virginia,"Roanoke City, Virginia, US",8377,191
+Virginia,"Rockbridge, Virginia, US",1513,46
+Virginia,"Rockingham, Virginia, US",6689,105
+Virginia,"Russell, Virginia, US",2244,38
+Virginia,"Salem, Virginia, US",2134,47
+Virginia,"Scott, Virginia, US",1809,52
+Virginia,"Shenandoah, Virginia, US",4260,130
+Virginia,"Smyth, Virginia, US",2890,91
+Virginia,"Southampton, Virginia, US",1970,56
+Virginia,"Spotsylvania, Virginia, US",9733,116
+Virginia,"Stafford, Virginia, US",11106,76
+Virginia,"Staunton, Virginia, US",2503,70
+Virginia,"Suffolk, Virginia, US",7834,186
+Virginia,"Surry, Virginia, US",421,9
+Virginia,"Sussex, Virginia, US",1182,21
+Virginia,"Tazewell, Virginia, US",3592,67
+Virginia,"Unassigned, Virginia, US",0,0
+Virginia,"Virginia Beach, Virginia, US",35470,386
+Virginia,"Warren, Virginia, US",2907,55
+Virginia,"Washington, Virginia, US",4838,106
+Virginia,"Waynesboro, Virginia, US",2347,38
+Virginia,"Westmoreland, Virginia, US",1265,24
+Virginia,"Williamsburg, Virginia, US",758,12
+Virginia,"Winchester, Virginia, US",2826,45
+Virginia,"Wise, Virginia, US",3127,96
+Virginia,"Wythe, Virginia, US",2604,78
+Virginia,"York, Virginia, US",3697,52
+Washington,"Adams, Washington, US",2092,22
+Washington,"Asotin, Washington, US",1407,29
+Washington,"Benton, Washington, US",16666,216
+Washington,"Chelan, Washington, US",6625,66
+Washington,"Clallam, Washington, US",1211,8
+Washington,"Clark, Washington, US",22635,261
+Washington,"Columbia, Washington, US",119,5
+Washington,"Cowlitz, Washington, US",5670,85
+Washington,"Douglas, Washington, US",3543,22
+Washington,"Ferry, Washington, US",325,4
+Washington,"Franklin, Washington, US",12207,110
+Washington,"Garfield, Washington, US",121,5
+Washington,"Grant, Washington, US",8627,71
+Washington,"Grays Harbor, Washington, US",3807,62
+Washington,"Island, Washington, US",1658,30
+Washington,"Jefferson, Washington, US",395,3
+Washington,"King, Washington, US",102349,1517
+Washington,"Kitsap, Washington, US",7627,105
+Washington,"Kittitas, Washington, US",2809,33
+Washington,"Klickitat, Washington, US",716,9
+Washington,"Lewis, Washington, US",4336,64
+Washington,"Lincoln, Washington, US",471,8
+Washington,"Mason, Washington, US",2649,29
+Washington,"Okanogan, Washington, US",2445,38
+Washington,"Out of WA, Washington, US",0,0
+Washington,"Pacific, Washington, US",897,10
+Washington,"Pend Oreille, Washington, US",723,7
+Washington,"Pierce, Washington, US",49296,651
+Washington,"San Juan, Washington, US",171,0
+Washington,"Skagit, Washington, US",5409,67
+Washington,"Skamania, Washington, US",308,1
+Washington,"Snohomish, Washington, US",36094,569
+Washington,"Spokane, Washington, US",41485,625
+Washington,"Stevens, Washington, US",2061,28
+Washington,"Thurston, Washington, US",8975,95
+Washington,"Unassigned, Washington, US",1558,3
+Washington,"Wahkiakum, Washington, US",108,0
+Washington,"Walla Walla, Washington, US",5000,64
+Washington,"Whatcom, Washington, US",8454,91
+Washington,"Whitman, Washington, US",4155,48
+Washington,"Yakima, Washington, US",29505,446
+West Virginia,"Barbour, West Virginia, US",1411,26
+West Virginia,"Berkeley, West Virginia, US",12122,121
+West Virginia,"Boone, West Virginia, US",1965,33
+West Virginia,"Braxton, West Virginia, US",898,3
+West Virginia,"Brooke, West Virginia, US",2169,60
+West Virginia,"Cabell, West Virginia, US",8595,170
+West Virginia,"Calhoun, West Virginia, US",284,0
+West Virginia,"Clay, West Virginia, US",473,9
+West Virginia,"Doddridge, West Virginia, US",573,6
+West Virginia,"Fayette, West Virginia, US",3375,75
+West Virginia,"Gilmer, West Virginia, US",791,5
+West Virginia,"Grant, West Virginia, US",1266,27
+West Virginia,"Greenbrier, West Virginia, US",2748,62
+West Virginia,"Hampshire, West Virginia, US",1765,33
+West Virginia,"Hancock, West Virginia, US",2761,88
+West Virginia,"Hardy, West Virginia, US",1501,24
+West Virginia,"Harrison, West Virginia, US",5591,74
+West Virginia,"Jackson, West Virginia, US",2021,60
+West Virginia,"Jefferson, West Virginia, US",4526,48
+West Virginia,"Kanawha, West Virginia, US",14657,331
+West Virginia,"Lewis, West Virginia, US",1157,20
+West Virginia,"Lincoln, West Virginia, US",1443,22
+West Virginia,"Logan, West Virginia, US",3034,93
+West Virginia,"Marion, West Virginia, US",4322,46
+West Virginia,"Marshall, West Virginia, US",3374,76
+West Virginia,"Mason, West Virginia, US",1983,36
+West Virginia,"McDowell, West Virginia, US",1545,21
+West Virginia,"Mercer, West Virginia, US",4722,116
+West Virginia,"Mineral, West Virginia, US",2817,84
+West Virginia,"Mingo, West Virginia, US",2510,39
+West Virginia,"Monongalia, West Virginia, US",9115,82
+West Virginia,"Monroe, West Virginia, US",1112,17
+West Virginia,"Morgan, West Virginia, US",1137,20
+West Virginia,"Nicholas, West Virginia, US",1592,19
+West Virginia,"Ohio, West Virginia, US",4141,81
+West Virginia,"Out of WV, West Virginia, US",0,0
+West Virginia,"Pendleton, West Virginia, US",698,9
+West Virginia,"Pleasants, West Virginia, US",857,11
+West Virginia,"Pocahontas, West Virginia, US",661,11
+West Virginia,"Preston, West Virginia, US",2846,46
+West Virginia,"Putnam, West Virginia, US",5025,90
+West Virginia,"Raleigh, West Virginia, US",6626,82
+West Virginia,"Randolph, West Virginia, US",2531,12
+West Virginia,"Ritchie, West Virginia, US",691,11
+West Virginia,"Roane, West Virginia, US",602,8
+West Virginia,"Summers, West Virginia, US",801,21
+West Virginia,"Taylor, West Virginia, US",1212,23
+West Virginia,"Tucker, West Virginia, US",523,10
+West Virginia,"Tyler, West Virginia, US",687,9
+West Virginia,"Unassigned, West Virginia, US",0,0
+West Virginia,"Upshur, West Virginia, US",1843,33
+West Virginia,"Wayne, West Virginia, US",3009,40
+West Virginia,"Webster, West Virginia, US",471,7
+West Virginia,"Wetzel, West Virginia, US",1284,29
+West Virginia,"Wirt, West Virginia, US",406,3
+West Virginia,"Wood, West Virginia, US",7687,165
+West Virginia,"Wyoming, West Virginia, US",1962,39
+Wisconsin,"Adams, Wisconsin, US",1897,17
+Wisconsin,"Ashland, Wisconsin, US",1333,15
+Wisconsin,"Barron, Wisconsin, US",5884,83
+Wisconsin,"Bayfield, Wisconsin, US",1251,19
+Wisconsin,"Brown, Wisconsin, US",34890,283
+Wisconsin,"Buffalo, Wisconsin, US",1385,7
+Wisconsin,"Burnett, Wisconsin, US",1493,22
+Wisconsin,"Calumet, Wisconsin, US",6408,52
+Wisconsin,"Chippewa, Wisconsin, US",7517,96
+Wisconsin,"Clark, Wisconsin, US",3639,62
+Wisconsin,"Columbia, Wisconsin, US",5760,69
+Wisconsin,"Crawford, Wisconsin, US",1767,17
+Wisconsin,"Dane, Wisconsin, US",45789,325
+Wisconsin,"Dodge, Wisconsin, US",12718,184
+Wisconsin,"Door, Wisconsin, US",2808,28
+Wisconsin,"Douglas, Wisconsin, US",4740,51
+Wisconsin,"Dunn, Wisconsin, US",5017,32
+Wisconsin,"Eau Claire, Wisconsin, US",11819,119
+Wisconsin,"Florence, Wisconsin, US",499,12
+Wisconsin,"Fond du Lac, Wisconsin, US",13540,121
+Wisconsin,"Forest, Wisconsin, US",1034,26
+Wisconsin,"Grant, Wisconsin, US",5659,90
+Wisconsin,"Green, Wisconsin, US",3607,24
+Wisconsin,"Green Lake, Wisconsin, US",2008,22
+Wisconsin,"Iowa, Wisconsin, US",2098,11
+Wisconsin,"Iron, Wisconsin, US",692,40
+Wisconsin,"Jackson, Wisconsin, US",2682,28
+Wisconsin,"Jefferson, Wisconsin, US",9499,132
+Wisconsin,"Juneau, Wisconsin, US",3249,27
+Wisconsin,"Kenosha, Wisconsin, US",18212,322
+Wisconsin,"Kewaunee, Wisconsin, US",2674,35
+Wisconsin,"La Crosse, Wisconsin, US",13496,82
+Wisconsin,"Lafayette, Wisconsin, US",1704,9
+Wisconsin,"Langlade, Wisconsin, US",2157,46
+Wisconsin,"Lincoln, Wisconsin, US",3261,91
+Wisconsin,"Manitowoc, Wisconsin, US",8735,88
+Wisconsin,"Marathon, Wisconsin, US",16074,220
+Wisconsin,"Marinette, Wisconsin, US",4560,69
+Wisconsin,"Marquette, Wisconsin, US",1556,27
+Wisconsin,"Menominee, Wisconsin, US",807,11
+Wisconsin,"Milwaukee, Wisconsin, US",115093,1345
+Wisconsin,"Monroe, Wisconsin, US",4619,38
+Wisconsin,"Oconto, Wisconsin, US",4950,61
+Wisconsin,"Oneida, Wisconsin, US",3778,75
+Wisconsin,"Out of WI, Wisconsin, US",0,0
+Wisconsin,"Outagamie, Wisconsin, US",23471,218
+Wisconsin,"Ozaukee, Wisconsin, US",9124,91
+Wisconsin,"Pepin, Wisconsin, US",876,7
+Wisconsin,"Pierce, Wisconsin, US",4891,42
+Wisconsin,"Polk, Wisconsin, US",4503,53
+Wisconsin,"Portage, Wisconsin, US",7274,72
+Wisconsin,"Price, Wisconsin, US",1332,7
+Wisconsin,"Racine, Wisconsin, US",24536,369
+Wisconsin,"Richland, Wisconsin, US",1372,15
+Wisconsin,"Rock, Wisconsin, US",17678,190
+Wisconsin,"Rusk, Wisconsin, US",1346,18
+Wisconsin,"Sauk, Wisconsin, US",6048,53
+Wisconsin,"Sawyer, Wisconsin, US",1715,26
+Wisconsin,"Shawano, Wisconsin, US",5252,83
+Wisconsin,"Sheboygan, Wisconsin, US",14585,150
+Wisconsin,"St. Croix, Wisconsin, US",9373,57
+Wisconsin,"Taylor, Wisconsin, US",2098,32
+Wisconsin,"Trempealeau, Wisconsin, US",3632,44
+Wisconsin,"Unassigned, Wisconsin, US",0,0
+Wisconsin,"Vernon, Wisconsin, US",1982,42
+Wisconsin,"Vilas, Wisconsin, US",2383,41
+Wisconsin,"Walworth, Wisconsin, US",12187,159
+Wisconsin,"Washburn, Wisconsin, US",1525,20
+Wisconsin,"Washington, Wisconsin, US",16616,162
+Wisconsin,"Waukesha, Wisconsin, US",48463,574
+Wisconsin,"Waupaca, Wisconsin, US",5994,162
+Wisconsin,"Waushara, Wisconsin, US",2484,37
+Wisconsin,"Winnebago, Wisconsin, US",21102,216
+Wisconsin,"Wood, Wisconsin, US",7485,94
+Wyoming,"Albany, Wyoming, US",4242,11
+Wyoming,"Big Horn, Wyoming, US",1147,32
+Wyoming,"Campbell, Wyoming, US",4830,60
+Wyoming,"Carbon, Wyoming, US",1568,23
+Wyoming,"Converse, Wyoming, US",994,17
+Wyoming,"Crook, Wyoming, US",429,12
+Wyoming,"Fremont, Wyoming, US",5175,84
+Wyoming,"Goshen, Wyoming, US",1207,24
+Wyoming,"Hot Springs, Wyoming, US",367,3
+Wyoming,"Johnson, Wyoming, US",717,10
+Wyoming,"Laramie, Wyoming, US",9044,113
+Wyoming,"Lincoln, Wyoming, US",1394,12
+Wyoming,"Natrona, Wyoming, US",7952,136
+Wyoming,"Niobrara, Wyoming, US",154,2
+Wyoming,"Out of WY, Wyoming, US",0,0
+Wyoming,"Park, Wyoming, US",2701,30
+Wyoming,"Platte, Wyoming, US",623,11
+Wyoming,"Sheridan, Wyoming, US",3124,31
+Wyoming,"Sublette, Wyoming, US",776,7
+Wyoming,"Sweetwater, Wyoming, US",4230,37
+Wyoming,"Teton, Wyoming, US",3732,9
+Wyoming,"Uinta, Wyoming, US",2183,12
+Wyoming,"Unassigned, Wyoming, US",0,0
+Wyoming,"Washakie, Wyoming, US",903,26
+Wyoming,"Weston, Wyoming, US",650,5
